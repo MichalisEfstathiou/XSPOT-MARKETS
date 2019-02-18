@@ -1,2 +1,2 @@
-# TraderEvolution Guide
+# XSPOT MARKETS Guide
 
