@@ -66,8 +66,8 @@ Charts refresh automatically. If, however, a user needs to refresh the chart man
 Working with right mouse button, user can get the following information:
 
 * Bars – the number of bars between two selected points.
-* ∆Time – time past between two selected points.
-* ∆Price – price difference between two selected points at each end of the line.
+* Time – time past between two selected points.
+* Price – price difference between two selected points at each end of the line.
 * Ticks – price difference shown in ticks between two selected points.
 * Profit – shows how much a trader could earn if the price has gone up/down from point 1 to point 2.
 
@@ -88,6 +88,3 @@ Right clicking on the timeline shows the panel with additional options:
 In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 
 ![](../../../.gitbook/assets/6%20%2824%29.png)
-
-
-
