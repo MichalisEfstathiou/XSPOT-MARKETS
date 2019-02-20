@@ -23,10 +23,10 @@ Probability calculation:
 
 * Probability calculation mode – this setting allows choosing the calculation type of probability at a certain price movement of the underlier, the following values are available here:
   * None – calculation of probabilities is missing.
-  * Single – allows calculating the probability of the underlier price change till the specified level set by the user in the form of a vertical line;
-  * OR – allows calculating the conditional probability of occurrence of any event P1 or P2 designated by the user on the chart in the form of vertical lines;
+  * Single – allows calculating the probability of the underlier price change till the specified level set by the user in the form of a vertical line.
+  * OR – allows calculating the conditional probability of occurrence of any event P1 or P2 designated by the user on the chart in the form of vertical lines.
   * AND – allows calculating the conditional probability of execution of the events P1 and P2 designated by the user on the chart in the form of vertical lines.
-* Days – allows specifying the number of days by which the modelling of changes in prices will be held \(Min value=1, Step =1, Value by default = 10\);
+* Days – allows specifying the number of days by which the modelling of changes in prices will be held \(Min value=1, Step =1, Value by default = 10\).
 * Button "Refresh probability" – allows performing probability recalculation by click.
 
 **Overlays**
@@ -51,9 +51,9 @@ If X &gt; Current Last price, then UpDown=1
 
 If X &lt; Current Last price, then UpDown=0
 
-* If Simulation model = By absolute price, then R = X – Current Last price;
-* If Simulation model = By relative price, then R = X/ Current Last price;
-* If Simulation model = By logarithmic price, then R = Ln\(X/ Current Last price\).
+* If Simulation model = By absolute price, then R = X – Current Last price
+* If Simulation model = By relative price, then R = X/ Current Last price
+* If Simulation model = By logarithmic price, then R = Ln\(X/ Current Last price\)
 
 After clicking on the "Refresh probability" button, all available 1 D history by the underlier will be loaded.
 
@@ -116,4 +116,3 @@ Point С \(Close price\) is selected randomly from the array of loaded history. 
 * If Simulation model = By logarithmic price, then С' = C \* e^R1 and С’’ = C’ \* e^R2
 
 Probability calculation is performed similar to the Singe mode, but two events should be executed consecutively.
-

@@ -30,11 +30,10 @@ Test on paper panel contains a very useful column “Link” which is hidden by 
 
 The following buttons of the tab allow the following actions:
 
-* Add underlier – opens ‘Order entry’ panel.
-* Cancel all - cancels all 'test on paper' orders;
-* Place selected - places selected 'test on paper' orders.
+* Add underlier – opens ‘Order entry’ panel
+* Cancel all - cancels all 'test on paper' orders
+* Place selected - places selected 'test on paper' orders
 
 SL/TP for orders
 
 If setting located in General settings -&gt; Trading defaults -&gt; Show SL/TP price in offset is checked, it is allowed to edit column SL \(TP\) offset; SL \(TP\) price/risk is not available for editing and is recalculated automatically. If unchecked, it is allowed to edit column SL \(TP\) price/risk; SL \(TP\) offset is not available for editing and is recalculated automatically.
-

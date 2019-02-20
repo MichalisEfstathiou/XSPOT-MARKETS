@@ -76,17 +76,17 @@ occurs over 2\*Std.coloring.
 
 This tab allows specifying colors and style for displaying the main lines of the option position profile:
 
-* Intrinsic – color, shape and thickness of the option intrinsic value line;
-* Time line - color, shape and thickness of the option time line;
-* Zero line - color, shape and thickness of the zero line;
-* Underlier price – color, shape and thickness of the line that indicates the underlier price.
+* Intrinsic – color, shape and thickness of the option intrinsic value line
+* Time line - color, shape and thickness of the option time line
+* Zero line - color, shape and thickness of the zero line
+* Underlier price – color, shape and thickness of the line that indicates the underlier price
 
 Probability simulations:
 
-* Simulation model – available states: By absolute prices \(default value\), By relative prices and By logarithmic prices.
-* Simulation examples – \(Min = 100, Step =1, Default value = 1000, Digits = 0\).
-* Probability scenario – available values: One touch \(default value\) and Out of range.
-* History Period, year – allows selecting a history period.
+* Simulation model – available states: By absolute prices \(default value\), By relative prices and By logarithmic prices
+* Simulation examples – \(Min = 100, Step =1, Default value = 1000, Digits = 0\)
+* Probability scenario – available values: One touch \(default value\) and Out of range
+* History Period, year – allows selecting a history period
 
 View:
 
@@ -109,17 +109,17 @@ This section contains the following options:
 Vanna-Volga model:
 
 * Underlier price – allows selecting Forward price or Current last price from the drop-down list. In case the Forward price is selected, the following options are enabled for editing:
-* 1. Domestic rate, % – value by default = 0; step = 0.01.
-  2. Foreign rate, % – value by default = 0; step = 0.01.
+* 1. Domestic rate, % – value by default = 0; step = 0.01
+  2. Foreign rate, % – value by default = 0; step = 0.01
 
 The following options also can be set up:
 
-* ATM strike price – at the money option's strike price;
-* ATM IV, % – at the money option's implied volatility;
-* Call strike price – some call option's strike price;
-* Call IV, % – implied volatility of selected call option;
-* Put strike price – some put option's strike price;
-* Put IV, % – implied volatility of selected put option.
+* ATM strike price – at the money option's strike price
+* ATM IV, % – at the money option's implied volatility
+* Call strike price – some call option's strike price
+* Call IV, % – implied volatility of selected call option
+* Put strike price – some put option's strike price
+* Put IV, % – implied volatility of selected put option
 
 **Info Window:**
 
@@ -141,7 +141,7 @@ The style of a font can be selected.
 
 **Positions/Orders information:** this block shows all information about positions, orders and 'test on paper' results.
 
-**Panel navigation:** use this block in order to manage tabs of Option master panel. 
+**Panel navigation:** use this block in order to manage tabs of Option master panel.
 
 **Info panel:** click on the button![](../../../.gitbook/assets/info-panel.png)to enable/disable the information panel displaying.
 
@@ -157,4 +157,3 @@ Greeks – are the coefficients which used for the characteristics of option cos
 * Gamma – is the second derivative of the option price by the underlier price; shows the rapidity of the option delta change.
 * Vega – is the first derivative of the option price by volatility; shows how option price will be changed in points, if the volatility changes by 1%.
 * Theta – is the first derivative of the option price by time; shows how the option price will be reduced after one day.
-

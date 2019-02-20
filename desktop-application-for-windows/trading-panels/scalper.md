@@ -57,10 +57,10 @@ Selection between 'P/L by currency' and 'P/L by points' is available when 'Show 
 
 The color of QTY cell depends on the side of the position:
 
-* If all positions have Side = Long, qty. cell will be colored in blue;
-* If there are no positions, qty. cell will not be colored and qty. value = N/A.
-* If positions are multidirectional, then qty. cell is not colored;
-* If all positions have Side = Short, qty. cell will be colored in red;
+* If all positions have Side = Long, qty. cell will be colored in blue
+* If there are no positions, qty. cell will not be colored and qty. value = N/A
+* If positions are multidirectional, then qty. cell is not colored
+* If all positions have Side = Short, qty. cell will be colored in red
 
 User has a possibility to change a size of Time and sales chart section using left mouse button \(drag&drop\), to provide this just disable Mouse trading and resize chart section to desired width.
 
@@ -91,7 +91,7 @@ If several orders are open on current price \(summary volume is shown in the ord
 5. Overlay indicators – are any other symbols, the movement or side of which may be preceded by the movement of the traded asset, and the whole process of leading one another called "correlation". They are shown as line charts which are outputted in the panel without reference to Market depth section \(not more than 3\).
 6. Impulse indicators – are any other symbols which can cause impulsive directional movement of the traded instrument \(not more than 3\). Impulse indicator is presented in the form of two vertical columns opposite each other at the bottom and top of the panel Scalper. Upper column shows the total amount of purchases over a certain time interval, the lower - total sales for the specified time interval.
 
-### **Scalper settings**
+###**Scalper settings**
 
 Scalper settings have six sections to setup.
 
@@ -279,6 +279,3 @@ Scalper hotkeys have the following functions:
 * Modifier: Create OCO link - modifier that allows exposing the order links. Principle of operation: Clamp the modifier - &gt; Select the first price - &gt; without releasing the left mouse button, drag the cursor to the second price.
 * Modifier: All operations with position quantity – modifier that allows executing all operations with current position volume.
 * Modifier: Add by mouse SL/TP – modifier that allows adding the arbitrary SL/TP orders using mouse.
-
-
-

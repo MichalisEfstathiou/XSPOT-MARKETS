@@ -14,8 +14,8 @@ See the blue chart for "Volatility lab" plotted according to actual market data 
 
 This model is plotted for selected option series and gets the following elemental parameters:
 
-* Days to expire of selected option series – Days/365;
-* Underlier price – can be Forward or Current last price, is calculated with taking into account interest rates.
+* Days to expire of selected option series – Days/365
+* Underlier price – can be Forward or Current last price, is calculated with taking into account interest rates
 
 If Forward price is selected in the settings, then Forward price is calculated this way:
 
@@ -23,19 +23,19 @@ Forward price = Current last price \* e^\(M\*Days/365\), where
 
 M = Domestick rate/100 - Foreign rate/100;
 
-* ATM strike – is a strike, value of which is the closest to a Current last price value;
-* ATM IV – an arithmetic mean of ATM Call and Put strikes IV;
-* D Call strike – is a Call strike, Delta absolute value of which is the closest to a Delta value in the settings![](../../../.gitbook/assets/screenshot_1%20%287%29.png); 
-* D Call IV - D Call strike IV;
-* D Put strike - is a Put strike, Delta absolute value of which is the closest to a Delta value in the settings;
-* D Put IV - D Put strike IV;
-* Strikes array of selected option series.
+* ATM strike – is a strike, value of which is the closest to a Current last price value
+* ATM IV – an arithmetic mean of ATM Call and Put strikes IV
+* D Call strike – is a Call strike, Delta absolute value of which is the closest to a Delta value in the settings![](../../../.gitbook/assets/screenshot_1%20%287%29.png)
+* D Call IV - D Call strike IV
+* D Put strike - is a Put strike, Delta absolute value of which is the closest to a Delta value in the settings
+* D Put IV - D Put strike IV
+* Strikes array of selected option series
 
   These parameters are used in array’s model values IV calculation for selected option series.
 
   The calculated series are reflected on the Volatility lab chart.
 
-### **Chart settings menu**
+###**Chart settings menu**
 
 In the Chart settings menu you can choose the Side, Visible series and Volatility models to be displayed on the chart:
 
@@ -57,7 +57,7 @@ In order to hide the Chart settings menu, press the button![](../../../.gitbook/
 
 Marking the option![](../../../.gitbook/assets/vv.png)as checked in the Volatility models section allows to plot Vanna-Volga implied volatilities model.
 
- This graph can also get its individual parameters via thickness and color selection \(![](../../../.gitbook/assets/th.png),![](../../../.gitbook/assets/d.png)\). 
+ This graph can also get its individual parameters via thickness and color selection \(![](../../../.gitbook/assets/th.png),![](../../../.gitbook/assets/d.png)\).
 
 * The drop-down list of the Option series section allows selecting an appropriate series for Vanna-Volga implied volatilities model:![](../../../.gitbook/assets/screenshot_4.png).
 
@@ -65,18 +65,17 @@ Marking the option![](../../../.gitbook/assets/vv.png)as checked in the Volatili
 
 ### Chart scaling
 
- The chart view can be manipulated with the buttons![](../../../.gitbook/assets/screenshot_5%20%281%29.png), located in the buttom-right corner of the chart field: 
+ The chart view can be manipulated with the buttons![](../../../.gitbook/assets/screenshot_5%20%281%29.png),located in the buttom-right corner of the chart field:
 
-* Pressing the button![](../../../.gitbook/assets/screenshot_12.png)allows to zoom out of any random area of the chart;
-*  Pressing the button![](../../../.gitbook/assets/screenshot_7.png)allows to zoom in to any random area of the chart;
-*  Pressing the button![](../../../.gitbook/assets/+.png)  allows to enable selecting any area of the chart for zooming in. Pressing this button again disables this option.
+* Pressing the button![](../../../.gitbook/assets/screenshot_12.png)allows to zoom out of any random area of the chart
+*  Pressing the button![](../../../.gitbook/assets/screenshot_7.png)allows to zoom in to any random area of the chart
+*  Pressing the button![](../../../.gitbook/assets/+.png)  allows to enable selecting any area of the chart for zooming in. Pressing this button again disables this option
 
 The chart view can be also manipulated with some additional options:
 
-* Hovering the cursor over a chart’s dot + mouse wheel scrolling - allows zooming in to and zooming out of a chosen dot![](../../../.gitbook/assets/dd.png)of any chart;
-*  Clicking + holding + moving the cursor on a random area of the coordinate plane![](../../../.gitbook/assets/screenshot_14.png)- allows to focus the chart view on this area of the coordinate plane;
-* Clicking + moving the cursor on any area on the X or Y axis - allows to move on the left/right \(X\) or up/down \(Y\) on this area on the X or Y axis;
+* Hovering the cursor over a chart’s dot + mouse wheel scrolling - allows zooming in to and zooming out of a chosen dot![](../../../.gitbook/assets/dd.png)of any chart
+*  Clicking + holding + moving the cursor on a random area of the coordinate plane![](../../../.gitbook/assets/screenshot_14.png)- allows to focus the chart view on this area of the coordinate plane
+* Clicking + moving the cursor on any area on the X or Y axis - allows to move on the left/right \(X\) or up/down \(Y\) on this area on the X or Y axis
 * Clicking + scrolling on any area on the X or Y axis - allows to zoom in to and zoom out of this area:
 
 ![](../../../.gitbook/assets/x-and-y.jpg)
-

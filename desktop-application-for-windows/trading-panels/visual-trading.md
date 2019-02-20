@@ -4,51 +4,51 @@
 
 ![](../../.gitbook/assets/82.png)
 
-### The built-in Order entry panel 
+###The built-in Order entry panel 
 
-In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/83.png), located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
+In order to start visual trading, click the 'Chart trading' button![](../../.gitbook/assets/83.png),located on the top right corner of the Chart toolbar, and built-in Order entry panel will be opened:
 
 ![](../../.gitbook/assets/84.png)
 
 The Order entry panel consists of the following items:
 
-1. Quantity - the order quantity;
-2. SL - for specifying Stop Loss parameters;
-3. TP - for specifying Take Profit parameters.
+1. Quantity - the order quantity
+2. SL - for specifying Stop Loss parameters
+3. TP - for specifying Take Profit parameters
 
 Hot buttons for one-click trading are the following:
 
-* Sell Ask – to send a Sell Limit order at the Ask price;
-* Sell Bid – to send a Sell Limit order at the Bid price;
-* Sell Market – to send a sell market order;
-* Buy Market – to send a buy market order;
-* Buy Ask – to send a Buy Limit order at the Ask price;
-* Buy Bid – to send a Buy Limit order at the Bid price;
-* Close – to close all positions by selected symbol and account;
-* Reverse – to reverse all positions by selected symbol and account;
-* Cancel buy – to cancel buy orders by selected symbol and account;
-* Cancel sell – to cancel sell orders by selected symbol and account;
-* Cancel all – to cancel all orders by selected symbol and account.
+* Sell Ask – to send a Sell Limit order at the Ask price
+* Sell Bid – to send a Sell Limit order at the Bid price
+* Sell Market – to send a sell market order
+* Buy Market – to send a buy market order
+* Buy Ask – to send a Buy Limit order at the Ask price
+* Buy Bid – to send a Buy Limit order at the Bid price
+* Close – to close all positions by selected symbol and account
+* Reverse – to reverse all positions by selected symbol and account
+* Cancel buy – to cancel buy orders by selected symbol and account
+* Cancel sell – to cancel sell orders by selected symbol and account
+* Cancel all – to cancel all orders by selected symbol and account
 
-### Chart trading
+###Chart trading
 
 To start chart trading, follow these steps:
 
-1. Оpen the built-in Order entry panel;
-2. Click on the 'Mouse trading' button![](../../.gitbook/assets/85.png)   to enable the chart trading;
-3. Select type of an order to be placed: single or OCO.
+1. Оpen the built-in Order entry panel
+2. Click on the 'Mouse trading' button![](../../.gitbook/assets/85.png)   to enable the chart trading
+3. Select type of an order to be placed: single or OCO
 
 You can enable chart trading by pressing and holding the Ctrl key as well.
 
 If the cursor is higher than the current price, you can send:
 
-* Buy Stop order – by left-click;
-* Sell Limit order – by right-click.
+* Buy Stop order – by left-click
+* Sell Limit order – by right-click
 
 If the cursor is lower than a current price, you can send:
 
-* Buy Limit order – left-click of the mouse;
-* Sell Stop order – right-click of the mouse.
+* Buy Limit order – left-click of the mouse
+* Sell Stop order – right-click of the mouse
 
 Orders tooltips are always visible while trading: if order is Buy, then its icon is blue; and if order is Sell, then its icon is red.
 
@@ -69,19 +69,13 @@ To start modifying other parameters, left-click on the order marker. The followi
 To cancel order, click on the button![](../../.gitbook/assets/89.png).
 
 Right-clicking on the order marker opens the context menu with various actions which can be done with an order. You can choose options which you need: Cancel order, Modify, Change to Market.  
-  
+
 All modifying operations can be made from the Modify window which can be opened choosing option 'Modify' in the context menu:
 
- ![](../../.gitbook/assets/90.png) 
+ ![](../../.gitbook/assets/90.png)
 
 ### Stop loss and Take profit
 
 If you need to set SL/TP to the order/position, left-click on the order/position marker. After that, SL/TP markers appear. Drag and Drop SL/TP prices to modify them:
 
 ![](../../.gitbook/assets/91.png)
-
-  
-  
-  
-
-

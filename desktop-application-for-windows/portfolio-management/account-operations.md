@@ -25,7 +25,6 @@ For transferring funds between accounts, choose Account -&gt; Transfer.
 * Transfer fee - shows commission of the transfer.
 * Required amount - shows amount user selected for the transfer.
 * Transfer rate - shows rate of the transfer.
-* Result transfer - shows amount which will be transfered to the target account.
+* Result transfer - shows amount which will be transferred to the target account.
 
  Note: Transferring  funds requires broker approval. When a request is made, the broker can confirm or reject the transfer. While the request is pending, funds will be set aside as "Blocked balance."
-

@@ -6,8 +6,8 @@ The Market depth panel allows to view and trade Level II quotes. To open a new M
 
 The Market depth panel consists of several sections:
 
-* Level I - only Level I quotes;
-* Position bar - short information about opened positions \(quantity, average price, current profit and loss\).
+* Level I - only Level I quotes
+* Position bar - short information about opened positions \(quantity, average price, current profit and loss\)
 
 P/L value is displayed in currency or in ticks/points depending on what option you choose clicking on it.
 
@@ -27,17 +27,17 @@ When clicking on QTY value, one of two options can be selected: Net QTY or Gross
 
 The color of QTY cell depends on a side of a position:
 
-       a\) If all positions have Side = Long, qty. cell will be colored in blue;
+       a\) If all positions have Side = Long, qty. cell will be colored in blue
 
-       b\) If all positions have Side = Short, qty. cell will be colored in red;
+       b\) If all positions have Side = Short, qty. cell will be colored in red
 
-       c\) If positions are multidirectional, then qty. cell is not colored;
+       c\) If positions are multidirectional, then qty. cell is not colored
 
-       d\) If there are no positions, qty. cell will not be colored and qty. value = N/A.
+       d\) If there are no positions, qty. cell will not be colored and qty. value = N/A
 
-* Quick trading bar - this function makes placing Stop or Limit orders very simple. Just choose the offset and click the corresponding button. The step option adjusts the offset buttons. In order to activate quick trading, click on the 'Quick trading' button located near 'Mouse trading' button, or choose the same option from the context menu;
-* Detail quote section - this section includes the latest quotes data similar to Watchlist panel. But unlike Level I quotes, it shows the total volume at each price level. On the left side are bid volumes, and on the right one – ask volumes;
-* Order entry is a compact bar similar to the 'Order entry' panel. It can be displayed in two ways: compact view \(showing only buttons and main boxes\) and extended view \(with explanation labels for buttons and boxes\). The quantity, type and TIF of an order, limit and stop price can all be adjusted here.
+* Quick trading bar - this function makes placing Stop or Limit orders very simple. Just choose the offset and click the corresponding button. The step option adjusts the offset buttons. In order to activate quick trading, click on the 'Quick trading' button located near 'Mouse trading' button, or choose the same option from the context menu
+* Detail quote section - this section includes the latest quotes data similar to Watchlist panel. But unlike Level I quotes, it shows the total volume at each price level. On the left side are bid volumes, and on the right one – ask volumes
+* Order entry is a compact bar similar to the 'Order entry' panel. It can be displayed in two ways: compact view \(showing only buttons and main boxes\) and extended view \(with explanation labels for buttons and boxes\). The quantity, type and TIF of an order, limit and stop price can all be adjusted here
 
 The detailed quote section is the main part of the Market depth panel, and all other bars can be hidden. To choose the way the panel looks, open context menu -&gt; View:
 
@@ -47,16 +47,16 @@ The color of QTY cell depends on a side of a position:
 
 The detail quote section is displayed as a table with the following columns:
 
-* MPID \(market participant ID\) – ECN or exchange, where the orders are set;
-* Price – buy or sell price from the highest Bid and the lowest Ask to lower Bids and higher Asks;
-* Size – the volume being offered to purchase at a specified Bid price or to sell at a specified Ask price;
-* Time – time of offer;
-* Avg. price – the price with slippage that appears because of low liquidity;
-* Total size – the aggregated traded volume;
-* Source – ECN or exchange, where orders are set. This field is similar to MPID, but it has another representation on the server. Is unavailable when 'Aggregate size by=By price level' is set up in the Market depth settings;
-* Order – order number of this current price;
-* CCY value – the value of Ask/Bid size expressed in the quote currency \(for example, "USD value"\), Price \* Ask/Bid size;
-* CCY Total value – the value of total Ask/Bid size expressed in the quote currency \(for example, "USD value"\), Price \* Total Ask/Bid size.
+* MPID \(market participant ID\) – ECN or exchange, where the orders are set
+* Price – buy or sell price from the highest Bid and the lowest Ask to lower Bids and higher Asks
+* Size – the volume being offered to purchase at a specified Bid price or to sell at a specified Ask price
+* Time – time of offer
+* Avg. price – the price with slippage that appears because of low liquidity
+* Total size – the aggregated traded volume
+* Source – ECN or exchange, where orders are set. This field is similar to MPID, but it has another representation on the server. Is unavailable when 'Aggregate size by=By price level' is set up in the Market depth settings
+* Order – order number of this current price
+* CCY value – the value of Ask/Bid size expressed in the quote currency \(for example, "USD value"\), Price \* Ask/Bid size
+* CCY Total value – the value of total Ask/Bid size expressed in the quote currency \(for example, "USD value"\), Price \* Total Ask/Bid size
 
 ### **Mouse trading**                    
 
@@ -86,26 +86,26 @@ If mouse trading is disabled, then when hovering the cursor on the desired row o
 
 ![](../../.gitbook/assets/40.png)
 
-*  Standard settings – Font, Grid;
-* Show size in –   allows selecting in what form the volume will be shown. General defaults – is taken from general terminal settings; Lots – will be displayed in lots; Real size - will be displayed in real value;
-* Round precision –   if checked, you can set up precision of volume displaying;
-* View by –   allows selecting the following options: 'By price level' or 'By order'.
-* Highlight new order –   can be checked, when 'View by' is set to 'By order'.
-* Mirror view –   if checked, Ask section columns of Market depth panel will be displayed backwards;
-* Use Stop limit instead Stop –   allows placing stop limit orders instead of stop orders. When checked, the Limit offset field is activated, where you can set the offset value for an order;
-* Limit offset –   you can set up precision of limit offset.
-* Show own orders –   if active, all user’s pending orders \(Limit/Stop\) are shown in the Market depth panel with color, otherwise – orders won’t be displayed. To set the coloring scheme for displaying the Limit/Stop orders in Market depth panel, go to Context menu - &gt; Settings - &gt; General - &gt; Colors - &gt; Trading.
-* Show toolbar – allows showing toolbar.
+*  Standard settings – Font, Grid
+* Show size in –  allows selecting in what form the volume will be shown. General defaults – is taken from general terminal settings; Lots – will be displayed in lots; Real size - will be displayed in real value
+* Round precision –  if checked, you can set up precision of volume displaying
+* View by –  allows selecting the following options: 'By price level' or 'By order'
+* Highlight new order –  can be checked, when 'View by' is set to 'By order'
+* Mirror view –  if checked, Ask section columns of Market depth panel will be displayed backwards
+* Use Stop limit instead Stop –  allows placing stop limit orders instead of stop orders. When checked, the Limit offset field is activated, where you can set the offset value for an order
+* Limit offset –  you can set up precision of limit offset
+* Show own orders –  if active, all user’s pending orders \(Limit/Stop\) are shown in the Market depth panel with color, otherwise – orders won’t be displayed. To set the coloring scheme for displaying the Limit/Stop orders in Market depth panel, go to Context menu - &gt; Settings - &gt; General - &gt; Colors - &gt; Trading
+* Show toolbar – allows showing toolbar
 
 #### Colors
 
 ![](../../.gitbook/assets/41.png)
 
-Table/Grid/Selection – color settings.
+Table/Grid/Selection – color settings
 
 #### **Coloring methods**
 
-The Market depth panel offers various coloring methods for Level 2 quotes. For setting up the coloring method, go to the Context menu - &gt; Settings - &gt; General - &gt; Colors. In this menu, the coloring method for each element is configured separately for the element text and background.
+The Market depth panel offers various coloring methods for Level 2 quotes. For setting up the coloring method, go to the Context menu - &gt; Settings - &gt; General - &gt; Colors. In this menu, the coloring method for each element is configured separately for the element text and background
 
 Depending on the selected criterion, there are six coloring methods available in the menu:
 
@@ -119,19 +119,19 @@ Depending on the selected criterion, there are six coloring methods available in
 
 ![](../../.gitbook/assets/44.png)
 
-*  Step to max volume – Level 2 quotes are colored so that the max volume set in the "Max volume" field has the most saturated color. Allows setting the most saturated Ask and Bid colors;
+*  Step to max volume – Level 2 quotes are colored so that the max volume set in the "Max volume" field has the most saturated color. Allows setting the most saturated Ask and Bid colors:
 
 ![](../../.gitbook/assets/45%20%281%29.png)
 
-* By update time – the most recently updated Ask and Bid values are colored with the most saturated Ask and Bid colors set in the menu.
+* By update time – the most recently updated Ask and Bid values are colored with the most saturated Ask and Bid colors set in the menu:
 
 ![](../../.gitbook/assets/46%20%281%29.png)
 
-*  By source and volume conditions 
+*  By source and volume conditions :
 
 ![](../../.gitbook/assets/47%20%281%29.png)
 
-*  Size histogram
+*  Size histogram:
 
 ![](../../.gitbook/assets/51%20%281%29.png)
 
@@ -141,14 +141,14 @@ The colors for the text and background of the newly added order can be set in th
 
 ![](../../.gitbook/assets/544.png)
 
-* Buy/Sell color settings – allows to change colors in the Position bar \(Price and QTY\), when positions are Long/Short;
-* Profit/Loss color settings – allows to change colors in the Position bar \(Price and QTY\), when P/L is positive/negative.
-* Limit order/Stop order – allows to change colors of Limit and Stop orders.
+* Buy/Sell color settings – allows to change colors in the Position bar \(Price and QTY\), when positions are Long/Short
+* Profit/Loss color settings – allows to change colors in the Position bar \(Price and QTY\), when P/L is positive/negative
+* Limit order/Stop order – allows to change colors of Limit and Stop orders
 
 #### **Monitored colors**
 
-* Monitored price background - allows setting text and background colors for monitoring of the selected price;
-* Monitored MPID background - allows setting text and background colors for monitoring of the selected MPID.
+* Monitored price background - allows setting text and background colors for monitoring of the selected price
+* Monitored MPID background - allows setting text and background colors for monitoring of the selected MPID
 
 Select desired price or MPID - &gt; right click on it - &gt; set the monitor - &gt; this price or MPID will be highlighted with set monitored color.
 
@@ -158,7 +158,7 @@ The Additional tab of the Market depth settings looks as follows:
 
 ![](../../.gitbook/assets/53%20%281%29.png)
 
-In the "Orders q-ty for hotkey trading" section, users can specify up to three \(Working q-ty 1,2,3\) order numbers, which can be traded with a hotkey. The "Auto-substitution order size by mouse click" and "Auto-substitution order price by mouse click" enable the user to perform the corresponding actions. 
+In the "Orders q-ty for hotkey trading" section, users can specify up to three \(Working q-ty 1,2,3\) order numbers, which can be traded with a hotkey. The "Auto-substitution order size by mouse click" and "Auto-substitution order price by mouse click" enable the user to perform the corresponding actions.
 
 #### **Tab order**
 
@@ -167,6 +167,3 @@ The Additional tab of the Market depth settings looks as follows:
 The Tab order section of the General tab of Market depth menu contains the checkboxes, checking which the selected menu items \(controls\) are included in the switching sequence between the items on pressing Shift / Shift + Tab. If any control was selected in the open Order entry menu at the moment of pressing Shift / Shift + Tab, the switching is performed starting from the control selected and in the sequence of the items checked.
 
 The user can change the arrangement of the controls in the Tab order section \(and therefore the sequence of switching between the menu items\) by drag and dropping the items in the menu list with the mouse.
-
-
-
