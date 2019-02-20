@@ -24,8 +24,7 @@ The following information about Accounts + calculation formulas is available:
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><header>General</header>
-      </td>
+      <td style="text-align:left"><b>General<b></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
