@@ -14,7 +14,7 @@ Tap the button 'Log in'.
 
 Note: to recover the application password, tap ‘Forgot’ option in the ‘Password’ field.
 
-![](../../../.gitbook/assets/2.png)
+![](../../../.gitbook/assets/forget-password-ios.png)
 
 To recover the password:
 
