@@ -14,22 +14,22 @@ User-analyst is a user who can create, delete and send Trading ideas to user-sub
 
 In order to send a Trading idea, a user-analyst has to specify mandatory order parameters:
 
-* Symbol – allows selecting the instrument that will be used in the Trading idea;
-* Side – allows selecting Trading idea operation side: buy or sell;
-* TIF – dropdown list for selecting the order TIF type \(Day, GTC, IOC, FOK, GTD\);
-* Limit price – field for entering the limit price for the order;
-* SL price – Stop Loss price of the order;
-* SL offset – field that shows the SL offset value;
-* TP price – Take Profit price of the order;
-* TP offset – field that shows the TP offset value;
-* Current price – field that shows the current symbol price \(if available\);
-* Lifetime – allows specifying the period of the idea lifetime, during which a user-subscriber can accept the idea. Format: “hh:mm” \(hours:minutes\). \(min = 00 hours : 01 minutes; max = 24 hours : 00 minutes\);
-* Title – allows entering a title of the Trading idea. The title cannot contain more than 50 symbols.
+* Symbol – allows selecting the instrument that will be used in the Trading idea
+* Side – allows selecting Trading idea operation side: buy or sell
+* TIF – dropdown list for selecting the order TIF type \(Day, GTC, IOC, FOK, GTD\)
+* Limit price – field for entering the limit price for the order
+* SL price – Stop Loss price of the order
+* SL offset – field that shows the SL offset value
+* TP price – Take Profit price of the order
+* TP offset – field that shows the TP offset value
+* Current price – field that shows the current symbol price \(if available\)
+* Lifetime – allows specifying the period of the idea lifetime, during which a user-subscriber can accept the idea. Format: “hh:mm” \(hours:minutes\). \(min = 00 hours : 01 minutes; max = 24 hours : 00 minutes\)
+* Title – allows entering a title of the Trading idea. The title cannot contain more than 50 symbols
 
 The following options are not mandatory:
 
-* Description – allows entering a description of the Trading idea; 
-* Add chart screen – allows attaching a Chart snapshot to the Trading idea. Clicking on the button ‘Add chart screen’ opens the detached Chart by the chosen instrument. Then just press the button ‘Take snapshot’ and click on a tick. After taking a snapshot, the button ‘Add chart screen’ will change to ‘Remove’, click on it in order to delete the Chart screen. The button![](../.gitbook/assets/7%20%285%29.png)  allows to open the full-size screenshot.
+* Description – allows entering a description of the Trading idea
+* Add chart screen – allows attaching a Chart snapshot to the Trading idea. Clicking on the button ‘Add chart screen’ opens the detached Chart by the chosen instrument. Then just press the button ‘Take snapshot’ and click on a tick. After taking a snapshot, the button ‘Add chart screen’ will change to ‘Remove’, click on it in order to delete the Chart screen. The button![](../.gitbook/assets/7%20%285%29.png) allows to open the full-size screenshot.
 
 After specifying all the parameters of the Trading idea, the user-analyst needs to click on the ‘Send’ button to send the idea. In case of a successful Trading idea sending, the user gets a notification:
 
@@ -47,7 +47,7 @@ After expiration of the Trading idea, it will be removed from the panel. In orde
 
 ![](../.gitbook/assets/screenshot_2%20%285%29.png)
 
-### **User-subscriber** 
+### **User-subscriber**
 
 User-subscriber is a user who is subscribed to user-analyst’s Trading ideas. For the user-subscribers only the subscriber panel is available in the terminal and they can only see and accept Trading ideas. Click on the button![](../.gitbook/assets/1%20%2849%29.png)in the Status bar to open this panel. Clicking on this button for the first time evokes the window with Risk disclosure. Pressing the button ‘I agree’ allows to accept it.
 
@@ -64,6 +64,3 @@ In the panel, the user-subscriber can see the text description of the idea, rema
 ![](../.gitbook/assets/6%20%2828%29.png)
 
 Click on the ‘Yes’ button to place an order based on the Trading idea.
-
- 
-

@@ -26,9 +26,9 @@ There are four allocation methods available in MAM:
         <p>
           <img src="../../.gitbook/assets/1 (50).png" alt/>
         </p>
-        <p>MVol - order size entered by manager;</p>
-        <p>Vol i - volume of open positions on the subaccount;</p>
-        <p>k - coefficient from the accounts section of the MAM panel.</p>
+        <p>MVol - order size entered by manager</p>
+        <p>Vol i - volume of open positions on the subaccount</p>
+        <p>k - coefficient from the accounts section of the MAM panel</p>
       </td>
     </tr>
     <tr>
@@ -37,10 +37,10 @@ There are four allocation methods available in MAM:
         <p>
           <img src="../../.gitbook/assets/2 (42).png" alt/>
         </p>
-        <p>Vol i - volume of open positions on the subaccount;</p>
-        <p>MVol - order size entered by manager;</p>
-        <p>Lot i – the coefficient setting for the subaccount;</p>
-        <p>∑ Lot – sum of all coefficients of all active accounts.</p>
+        <p>Vol i - volume of open positions on the subaccount</p>
+        <p>MVol - order size entered by manager</p>
+        <p>Lot i – the coefficient setting for the subaccount</p>
+        <p>∑ Lot – sum of all coefficients of all active accounts</p>
       </td>
     </tr>
     <tr>
@@ -49,8 +49,8 @@ There are four allocation methods available in MAM:
         <p>
           <img src="../../.gitbook/assets/3 (38).png" alt/>
         </p>
-        <p>balance i - the balance of the subaccount;</p>
-        <p>∑balance - the balance of all active subaccounts.</p>
+        <p>balance i - the balance of the subaccount</p>
+        <p>∑balance - the balance of all active subaccounts</p>
       </td>
     </tr>
     <tr>
@@ -59,10 +59,9 @@ There are four allocation methods available in MAM:
         <p>
           <img src="../../.gitbook/assets/4 (6).png" alt/>
         </p>
-        <p>Equity i - the equity of the subaccount;</p>
-        <p>∑Equity - the sum of equity of all subaccounts.</p>
+        <p>Equity i - the equity of the subaccount</p>
+        <p>∑Equity - the sum of equity of all subaccounts</p>
       </td>
     </tr>
   </tbody>
 </table>
-
