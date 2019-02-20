@@ -2,7 +2,7 @@
 
 The Order entry screen enables user to send orders. The Order entry button![](../../../.gitbook/assets/oe%20%281%29.jpg)is located at the top right corner of the Chart. Also it is accessible from the main menu of the platform or from the Symbol menu. Swipe left the Symbol name in Watchlist to open Symbol menu and tap Order Entry button:
 
-                                                       ![](../../../.gitbook/assets/4-copy.png) 
+![](../../../.gitbook/assets/4-copy.png) 
 
 In Order entry users can see detailed information about the traded symbol: symbol name, quantity, order type, price, TIF and information about bid and ask.
 
@@ -47,4 +47,3 @@ TIF \(Time-in-force\) – allows traders to be more specific about time paramete
 Note: SL price and Trailing SL offset cannot be checked together.
 
 After setting all the parameters, tap the button 'Send order'.
-

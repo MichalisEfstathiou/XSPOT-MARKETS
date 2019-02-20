@@ -2,7 +2,7 @@
 
 The Market depth screen allows users to view and trade Level II quotes. It is accessible only from the Symbol menu in the Watchlist screen. Open the Watchlist and swipe left the selected instrument name. Then tap the button 'Market depth' in the Symbol menu.
 
-                                                             ![](../../../.gitbook/assets/4-copy%20%283%29.png) 
+![](../../../.gitbook/assets/4-copy%20%283%29.png) 
 
 The main quote section consists of the following columns:
 
@@ -18,6 +18,3 @@ To open Order entry screen, tap the Order entry button![](../../../.gitbook/asse
  Read more about the Order entry screen here:
 
 [https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry](https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry)
-
-                  
-

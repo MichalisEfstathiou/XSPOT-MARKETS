@@ -8,7 +8,7 @@ The Chart is the most important tool for active trading and market analyzing. Th
 
 Tap the name of the symbol in the ‘Quotes’ section in order to open the chart by this symbol.
 
-### **Chart toolbar** 
+### **Chart toolbar**
 
 Tap the button![](../../../.gitbook/assets/tools%20%281%29.jpg)to open Chart toolbar.
 
@@ -22,11 +22,11 @@ Tap the button![](../../../.gitbook/assets/tools%20%281%29.jpg)to open Chart too
 
 ### **Indicators**
 
-In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add..jpg)near the indicator name at the list of available Indiactors.
+In order to add a new indicator, choose the category of indicators \(Channels, Moving averages, Oscillators etc.\) and tap the button![](../../../.gitbook/assets/add..jpg)near the indicator name at the list of available Indicators.
 
 ![](../../../.gitbook/assets/3%20%2818%29.png)
 
-It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify%20%282%29.jpg). Tap the button![](../../../.gitbook/assets/delete.%20%283%29.jpg)located near indicator’s name to remove indicator from this section. 
+It will appear in ‘Added indicators’ section and you can set indicator’s parameters by tapping the button![](../../../.gitbook/assets/modify%20%282%29.jpg). Tap the button![](../../../.gitbook/assets/delete.%20%283%29.jpg)located near indicator’s name to remove indicator from this section.
 
 ![](../../../.gitbook/assets/ind.png)
 
@@ -34,13 +34,13 @@ Open the chart to see the added indicators.
 
 ![](../../../.gitbook/assets/screenshot_2018-11-07-14-26-38.png)
 
-### **Drawing tools**
+###**Drawing tools**
 
 Select the needed drawing tool from the 'Drawing' menu and place it manually on the chart.
 
 ![](../../../.gitbook/assets/screenshot_2018-11-07-14-28-37%20%281%29.png)
 
-### **Order entry**
+###**Order entry**
 
  The Order entry screen enables user to send orders. The Order entry icon![](../../../.gitbook/assets/oe%20%286%29.jpg)is located at the top right corner of the Chart screen.
 
@@ -51,4 +51,3 @@ Orders are displayed on the chart with the quantity value inside of the order ma
 Read more information about Order entry screen here:
 
 [https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry](https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry)
-
