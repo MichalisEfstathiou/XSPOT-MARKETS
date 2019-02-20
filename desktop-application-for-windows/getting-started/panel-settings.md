@@ -8,24 +8,24 @@ The menu Settings can be opened through the Context menu, right click anywhere a
 
 **View**
 
-* Grid – allows showing grid between columns and rows \(you can select the following options: Vertical, Horizontal, Vertical & horizontal, None\);
-* Autosize of columns – automatically sizes columns so that their total width would be equal to the width of a panel. If disabled, each column will be sized by maximum length;
-* Auto re-sorting – allows auto re-sorting a table after any changes;
-* Show totals – allows showing total amount for columns. Be attentive to mark the "Show total" option as checked as well for selected columns in the Columns tab ![](../../.gitbook/assets/2%20%2831%29.png). 
+* Grid – allows showing grid between columns and rows \(you can select the following options: Vertical, Horizontal, Vertical & horizontal, None\).
+* Autosize of columns – automatically sizes columns so that their total width would be equal to the width of a panel. If disabled, each column will be sized by maximum length.
+* Auto re-sorting – allows auto re-sorting a table after any changes.
+* Show totals – allows showing total amount for columns. Be attentive to mark the "Show total" option as checked as well for selected columns in the Columns tab ![](../../.gitbook/assets/2%20%2831%29.png).
 * Show toolbar – allows showing panel toolbar.
 
 ####  **Colors**
 
 The Colors sub-menu allows configuring the color scheme for tables:
 
-* Text colors - the static cell text color \(text color\);
+* Text colors - the static cell text color \(text color\).
 * Background colors - the static cell background color.
 
  **Columns tab** allows changing columns settings.
 
 ![](../../.gitbook/assets/3%20%2816%29.png)
 
-#### **Displaying and hiding columns**
+####**Displaying and hiding columns**
 
 The Columns box on the left lists the columns available in the panel. The columns with the blue checkbox are currently visible. To display or hide a column, check or uncheck an appropriate box and click apply.
 
@@ -43,9 +43,9 @@ User can select multiple columns simultaneously and configure common settings fo
 
 The Column category lists the following settings:
 
-* Colors - allows changing font color and background color in a column;
-* Coloring mode - allows choosing the coloring mode \(by difference, by sign or none\);
-* Increase colors - allows drawing the price values which were increased while trading;
+* Colors - allows changing font color and background color in a column.
+* Coloring mode - allows choosing the coloring mode \(by difference, by sign or none\).
+* Increase colors - allows drawing the price values which were increased while trading.
 * Decrease colors - allows drawing the price values which were decreased while trading.
 
 #### **Total**
@@ -75,12 +75,12 @@ Alerts setup is described in details in the chapter Tools -&gt; Table alerts.
 Use the button **Apply** for applying changes which were done after opening the settings panel. In the menu of this control you can select the following options:
 
 * Apply to all – allows applying the changes to all panels of the chosen type in all workspaces.
-* Apply to workspace – allows applying the changes to all panels of the chosen type in the current workspace. 
+* Apply to workspace – allows applying the changes to all panels of the chosen type in the current workspace.
 
 Or you can choose the following options from the **More actions** menu:
 
-* Set as default – allows to set the changes in settings as default;
-* Reset to default –allows to reset the settings to those which user set as default;
+* Set as default – allows to set the changes in settings as default.
+* Reset to default –allows to reset the settings to those which user set as default.
 * Reset to factory – allows to reset settings to the factory ones.
 
 ### Exporting from table panels
@@ -106,4 +106,3 @@ This means when an application's panel and an exported file are opened, data in 
 After closing an exported panel, the application or an Excel file, you will need to export data again for monitoring information stored into an Excel file in real-time mode:
 
 ![](../../.gitbook/assets/15.png)
-

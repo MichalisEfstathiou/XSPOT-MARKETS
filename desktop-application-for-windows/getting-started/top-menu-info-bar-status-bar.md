@@ -1,14 +1,14 @@
 # Top menu, Info bar, Status bar
 
-### **Top** **menu**
+### **Top menu**
 
 ![](../../.gitbook/assets/top-menyu.png)
 
 * Terminal: access to various panels which allow to trade, analyze trading activity, and monitor market conditions.
 * Tools: Strategy manager, MAM, Synthetic instruments, Aggressor Balance Beta, Trading ideas, News, RSS, Economic calendar.
-* More: access to TraderEvolution Global website, log file, private log file, data folder, About current version screen.
+* More: access to XSpot website, log file, private log file, data folder, About current version screen.
 * Account: access to account information, Account statistics, Withdrawal, Transfer, Reports, Change password, Change trading password.
-* Help: access to TraderEvolution Guide.
+* Help: access to XSpot Guide.
 * Settings: access to general settings of the terminal. Read more about this section here: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/general-settings](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/general-settings)
 * Log in: evokes login screen.
 * Connection status: shows the status of connection to the server.
@@ -31,7 +31,7 @@ It looks as the following:
 
 This menu allows to select a set of elements to be displayed in the 'Info bar'.
 
-The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width. 
+The checkbox 'Tape rolling' allows to enable/disable the Info bar's horizontal movement along the application's window width.
 
 The control![](../../.gitbook/assets/4%20%2832%29.png)opens a list of elements' groups for particular elements selection. The groups 'Account details', 'Symbols' and 'Clocks' are available here:
 
@@ -45,7 +45,7 @@ The following sub-groups of elements displaying account details are available he
 
 To select element\(s\) from the sub-group\(s\), check needed element\(s\) and press the button 'OK'. Press the button 'Close' to cancel the selection and to quit the 'Customize account details' menu.
 
-* Symbols –   opens the symbol lookup. You can select symbol\(s\) to be displayed on the 'Info bar' here. In the 'Info bar' near the selected symbol you can see the Last price \(the last trade price\) and Change, % \(the price deviation from a Previous close price in a percentage\);
+* Symbols –  opens the symbol lookup. You can select symbol\(s\) to be displayed on the 'Info bar' here. In the 'Info bar' near the selected symbol you can see the Last price \(the last trade price\) and Change, % \(the price deviation from a Previous close price in a percentage\);
 *  Clocks – shows a list of clocks:
 
 ![](../../.gitbook/assets/6%20%2823%29.png)
@@ -55,7 +55,7 @@ To select element\(s\) from the sub-group\(s\), check needed element\(s\) and pr
 All selected elements via the 'Customize info bar' menu are displayed in the 'Info bar'. They are also arranged in this menu in the form of hierarchical tree. To remove an element from the 'Info bar', select it with highlighting in the 'Customize info bar' hierarchical tree, right-click it and select 'Delete' or click on the button![](../../.gitbook/assets/7%20%284%29.png).
 
 To remove more than one element, hold the key 'Ctrl', select as much elements as you need, right-click anywhere on the highlighted area and select 'Delete'.  
-  
+
 The following buttons allow to manage the 'Customize info bar' hierarchical tree's view:
 
 * ![](../../.gitbook/assets/8%20%2816%29.png)– click to collapse each tree's entity;
@@ -78,4 +78,3 @@ The Status bar displays \(from left to right\):
 * Event log – shows a log of all events that occurred during work sessions.
 * Lock trading – disables making all trading operations. After pressing the button, the notification in the center of the screen and the warning signs appear and it shows that trading is locked.
 * Date/Time – the current time or date; or both date and time.
-
