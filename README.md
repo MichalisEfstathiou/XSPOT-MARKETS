@@ -1,3 +1,3 @@
-# XSpot Markets (EU) Ltd Guide
+# X Spot Markets (EU) Ltd Guide
 
-For the purpose of this Guide, XSpot Markets (EU) Ltd will be referred to as "XSpot".
+For the purpose of this Guide, X Spot Markets (EU) Ltd will be referred to as "XSpot".
