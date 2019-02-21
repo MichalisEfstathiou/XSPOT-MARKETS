@@ -1,6 +1,6 @@
 # More
 
-All customers can use the auxiliary functions when working with the Desktop terminal.
+All customers can use the auxiliary functions when working with the Desktop terminal.</br>
 All functions are available through menu More:
 
 * Home page – allows opening the main website of X Spot Markets (EU) LTD
