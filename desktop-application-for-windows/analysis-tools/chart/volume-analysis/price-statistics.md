@@ -1,10 +1,10 @@
 # Price statistics
 
-This functionality allows aggregating volumes and derived values by each price level for a specified period of time. Price statistics is a table that appears on the left or right side of the chart depending on the selected position in the settings. Price table can be opened from the Analysis tools menu by clicking on the button![](../../../../.gitbook/assets/53.png)or through Context menu -&gt; Analysis tools  -&gt; Price statistics. 
+This functionality allows aggregating volumes and derived values by each price level for a specified period of time. Price statistics is a table that appears on the left or right side of the chart depending on the selected position in the settings. Price table can be opened from the Analysis tools menu by clicking on the button![](../../../../.gitbook/assets/53.png) or through Context menu -&gt; Analysis tools -&gt; Price statistics.
 
 ![](../../../../.gitbook/assets/54.png)
 
-**Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
+**Note: to work correctly with the tools of analysis, except Volume bars, it is obligatory to have trade and tick history.**
 
 By default statistics table contains four columns \(Price, Trades, Volume and Delta\), but it can be extended with additional parameters. The following parameters are available in the price statistics table:
 
@@ -41,7 +41,7 @@ Amount = Custom sell amount \(set in settings\)
 
 * Reset defaults –​ allows to reset settings to defaults.
 
-### **Settings**
+## **Settings**
 
 ![](../../../../.gitbook/assets/55.png)
 
@@ -58,13 +58,11 @@ Amount = Custom sell amount \(set in settings\)
 * Custom total/buy/sell amount – allows setting amount that is necessary for calculation of the Custom total/buy/sell volume trades parameters \(described above\).
 * Highlight price levels – if active, all chosen price levels in the statistics table \(use double click to select the level\) will be highlighted on the chart in the form of horizontal line with price.
 
-### **Context menu**
+## **Context menu**
 
 ![](../../../../.gitbook/assets/56.png)
 
 * Add line – draws standard horizontal line on the chart by specified price level.
 * Settings – evokes settings of the price statistics table.
 * Export, Table alerts – standard settings of the context menu.
-
-
 

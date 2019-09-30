@@ -4,7 +4,7 @@ Logging in to the Mobile application is available via the main login screen:
 
 ![](../../../.gitbook/assets/login-ios.png)
 
-Enter your valid login and password.
+Enter your valid login and password.
 
 Check the 'Save password' if you want the app remembering your login credentials.
 
@@ -23,3 +23,4 @@ To recover the password:
 * tap 'Recover' to receive an email with a recovery key. Then enter this key to the field
 
 _\*Recommended iOS version is 9 or higher_
+

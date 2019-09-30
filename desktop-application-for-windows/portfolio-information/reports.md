@@ -4,7 +4,7 @@ To view any reports of account activities, select Account -&gt; Reports.
 
 ![](../../.gitbook/assets/report.png)
 
-Users can export reports to CSV or Excel.
+Users can export reports to CSV or Excel.
 
 Users may choose to generate reports by user or by user group. For a user it is needed to specify one account or all accounts. When ‘Asset’ is checked, you can make reports for one specified symbol only. By default, reports include all symbols.
 

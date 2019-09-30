@@ -2,7 +2,7 @@
 
 A user can access the ‘Settings’ tab from the application’s ‘More’ menu in order to manage 'Defaults', 'Confirmations', 'Environment', 'Chart settings'.
 
-### Defaults
+## Defaults
 
 ![](../../../.gitbook/assets/defaults.png)
 
@@ -15,11 +15,11 @@ In 'Defaults' settings section you can adjust the following:
 * Set SL/TP values in offset – if checked, the SL/TP prices are in offset, if unchecked they are in absolute values
 * Show offset in – allows to select one of the available modes for offset displaying: Ticks, Points
 
-### **Confirmations**
+## **Confirmations**
 
 ![](../../../.gitbook/assets/confirm.png)
 
-'Confirmations' settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
+'Confirmations' settings section allows to enable double-checking of the following actions by marking them as checked, after what the application will ask you to confirm these actions:
 
 * Order sending
 * Order modifying
@@ -28,18 +28,18 @@ In 'Defaults' settings section you can adjust the following:
 * Position modifying
 * Position closing
 
-### **Environment**
+## **Environment**
 
 ![](../../../.gitbook/assets/environment.png)
 
-In 'Environment' section you can adjust the following:
+In 'Environment' section you can adjust the following:
 
 * Receive notifications – if checked, user will receive trading notifications. The notification icon looks as follows:![](../../../.gitbook/assets/new-icon.png)
 * Vibrate for notifications – if checked, the device will vibrate when notification comes
 * Enable sounds – this option shows if sounds are enabled or not
 * Warn if trading halt – if checked, user receives notifications about trading halt by symbol
 
-### **Chart settings**
+## **Chart settings**
 
 ![](../../../.gitbook/assets/settings-without-language.png)
 
@@ -51,3 +51,4 @@ In 'Defaults' settings section you can adjust the following:
 * Fit orders/positions – if checked, orders/positions will be visible on the Chart that automatically scales
 * Aggregation type – allows to select representation type of data on the chart \(e.g. 1 Bar = 1 minute\)
 * Volume – if checked, traded volume bars are shown on the chart
+

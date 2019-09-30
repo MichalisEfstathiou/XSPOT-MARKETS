@@ -4,7 +4,7 @@ Economic calendar panel displays the list of scheduled events that may affect mo
 
 ![](../../.gitbook/assets/kalendarik.png)
 
-The following columns are available for the panel:
+The following columns are available for the panel:
 
 * Date/Time – date and time of the event.
 * Country – country of the event.
@@ -18,7 +18,7 @@ Economic calendar panel displays the list of scheduled events that may affect mo
 
 Note: if any columns are not supported by Economic calendar provider those fields will be empty.
 
-### **Economic calendar settings**
+## **Economic calendar settings**
 
 Economic calendar settings can be opened from the context menu of the panel.
 
@@ -28,7 +28,7 @@ The settings of the Economic calendar panel consist of 2 tabs in the column ‘G
 
 ![](../../.gitbook/assets/set-calendar.png)
 
-Grid  – allows activating and setting up grid. Vertical, Horizontal, Vertical & horizontal, None.
+Grid – allows activating and setting up grid. Vertical, Horizontal, Vertical & horizontal, None.
 
 Autosize of columns – automatically sizes columns so that their total width would be equal to the width of a panel. If disabled, each column will be sized by maximum length.
 
@@ -38,5 +38,5 @@ Auto re-sorting – allows auto re-sorting a table after any changes.
 
 ![](../../.gitbook/assets/color-set-calendar.png)
 
-Table, Grid, Row, Alternative row, Selected row, Header row – allows configuring the color scheme for the table.
+Table, Grid, Row, Alternative row, Selected row, Header row – allows configuring the color scheme for the table.
 

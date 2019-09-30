@@ -1,8 +1,8 @@
 # System requirements
 
-Client Terminal has no minimum system requirements in order to run but, depending on the type of use, the following parameters are recommended:
+Client Terminal has no minimum system requirements in order to run but, depending on the type of use, the following parameters are recommended:
 
-### **Single account trading**
+## **Single account trading**
 
 2 GHz or higher processor.
 
@@ -14,7 +14,7 @@ Windows 7/ 8.1/ 10
 
 Microsoft .NET Framework 4.7 +.
 
-### **Automated trading**
+## **Automated trading**
 
 The same as single account trading, except for:
 

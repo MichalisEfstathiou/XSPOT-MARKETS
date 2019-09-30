@@ -24,3 +24,4 @@ In order to modify a position, tap the 'Modify' button and the following screen 
 Here you can modify Stop loss price, Take profit price or Trailing stop offset.
 
 In order to close a position, tap the button 'Close'.
+

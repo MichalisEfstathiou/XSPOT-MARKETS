@@ -1,16 +1,16 @@
 # Chart settings
 
-Chart settings include thirteen sections to set up: 
+Chart settings include thirteen sections to set up:
 
-#### **Data style**
+## **Data style**
 
-![](../../../.gitbook/assets/27%20%281%29.png)
+![](../../../.gitbook/assets/27-1.png)
 
 * Style - describes price movements of a symbol. Another way to choose the chart style through context menu: Style-&gt; \[desire style\].
 * Data type - the way to accept data. Available types are: Bid, Ask, Bid/Ask average, Last. Based on server settings Last or Bid/Ask type can be disabled.
 * Color settings for all styles.
 
-#### View
+## View
 
 ![](../../../.gitbook/assets/28.png)
 
@@ -20,7 +20,7 @@
 * Time to next bar - allows activating and setting up color of figures that show remaining time to the next bar.
 * Additional - allows activating Drawing toolbar, Scrollbar chart preview, Chart toolbar.
 
-#### **Time scale**
+## **Time scale**
 
 ![](../../../.gitbook/assets/29.png)
 
@@ -30,11 +30,11 @@
 * Highlight extended sessions - all extended sessions that were set on the server for the current symbol will be displayed in selected color.
 * Highlight date - allows displaying separator lines for: Days, Weeks, Months, and Years.
 
-#### **Price scale**
+## **Price scale**
 
-![](../../../.gitbook/assets/30%20%281%29.png)
+![](../../../.gitbook/assets/30-1.png)
 
-![](../../../.gitbook/assets/31%20%281%29.png)
+![](../../../.gitbook/assets/31-1.png)
 
 * Scale type - allows selecting type of the scale price and start price for the chart: Absolute, Relative and Logarithmic.
   * Absolute - displays the price scale in the absolute units.
@@ -67,26 +67,26 @@ If spread type is None - single price indicator is shown, depending on chart dat
 * Settlement price - allows displaying settlement price on the chart and choosing the style of its line.
 * Previous settlement price - allows displaying previous settlement price on the chart and choosing the style of its line.
 
-#### **Visual trading**
+## **Visual trading**
 
-![](../../../.gitbook/assets/32%20%281%29.png)
+![](../../../.gitbook/assets/32-1.png)
 
 * Open positions - allows displaying opened positions on chart and setting up style of lines.
 * Working orders - allows displaying working orders on the chart and setting up the style of lines.
 * Filled orders - allows displaying filled orders on chart.
 * Additional - allows displaying active positions/orders on the left side of the Chart area and trading through Order entry.
 
-#### **Chart Order entry**
+## **Chart Order entry**
 
-![](../../../.gitbook/assets/33%20%281%29.png)
+![](../../../.gitbook/assets/33-1.png)
 
-This section allows choosing buttons and hot buttons which will be displayed in built-in Order entry.
+This section allows choosing buttons and hot buttons which will be displayed in built-in Order entry.
 
-#### **Info window**
+## **Info window**
 
 ![](../../../.gitbook/assets/34.png)
 
-This section allows setting up contents of the Info window and style of its displaying. You can select from the following Info Window Modes: Separate Window, Attached To Cursor, Hidden.
+This section allows setting up contents of the Info window and style of its displaying. You can select from the following Info Window Modes: Separate Window, Attached To Cursor, Hidden.
 
 Other settings sections \(Volume bars, Price statistics, etc.\) are described in the articles located in the 'Analysis tools' documentation section.
 

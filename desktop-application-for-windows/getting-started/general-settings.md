@@ -1,10 +1,10 @@
 # General settings
 
-The General settings menu is used to view and change general properties of the trading terminal. In order to open it, click on the button![](../../.gitbook/assets/s1%20%281%29.png)at the top of the terminal.
+The General settings menu is used to view and change general properties of the trading terminal. In order to open it, click on the button![](../../.gitbook/assets/s1-1.png)at the top of the terminal.
 
-### **General**
+## **General**
 
-![](../../.gitbook/assets/1%20%2831%29.png)
+![](../../.gitbook/assets/1-31.png)
 
 * Language - specifies a default language of a user interface. To set up language, select it from the list.
 * Info bar - allows displaying Info bar.
@@ -12,9 +12,9 @@ The General settings menu is used to view and change general properties of the t
 * Synchronize cursor - allows synchronization of cursors on different charts which are opened in the terminal.
 * Mouse wheel - allows to scroll the chart or to zoom it while scrolling the mouse wheel.
 
-### **View**
+## **View**
 
-![](../../.gitbook/assets/screenshot_2%20%282%29.png)
+![](../../.gitbook/assets/screenshot_2-2.png)
 
 * Rounded average open price – if checked, open price of positions will be rounded in Watchlist, Positions, Filled orders, Market depth and other panels \(tick size=instrument tick size\).
 * Display quantity in lots – if checked, orders quantity is shown in lots; otherwise — in units.
@@ -22,9 +22,9 @@ The General settings menu is used to view and change general properties of the t
 * Reverse buttons order – if checked, trading buttons will be reversed to Sell/Buy pattern.
 * Tooltips – if checked, all tooltips will be shown in the application; otherwise – will be hidden. This option is true by default.
 
-### **Trading defaults**
+## **Trading defaults**
 
-![](../../.gitbook/assets/3%20%2815%29.png)
+![](../../.gitbook/assets/3-15.png)
 
 * Account – specifies an account used by default, available for a multi-account user.
 * Symbol – specifies a symbol used by default. This is the instrument that will be shown first when you load the Chart panel or Order entry panel.
@@ -52,11 +52,11 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ![](../../.gitbook/assets/types-manager.jpg)
 
-### Confirmations
+## Confirmations
 
-![](../../.gitbook/assets/4%20%2825%29.png)
+![](../../.gitbook/assets/4-25.png)
 
-In Confirmations section all of the options are fairly intuitive:
+In Confirmations section all of the options are fairly intuitive:
 
 * When Confirm order placement is checked, order placement must be approved.
 * When Confirm order cancellation is checked, cancellation of an order must be approved.
@@ -65,9 +65,9 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 * When Confirm position reversing is checked, reversing a position must be approved.
 * When Confirm order placement \(Trading idea\) is checked, order placement must be approved.
 
-### **Warnings**
+## **Warnings**
 
-![](../../.gitbook/assets/5%20%282%29.png)
+![](../../.gitbook/assets/5-2.png)
 
 * Warn if wrong order – if checked, you get a warning message in case of placing order with incorrect parameters.
 * Warn if today's volume exceeds - allows to select today volume level at which the system will display a warning message.
@@ -81,7 +81,7 @@ If 'Show offset in = Ticks \(fractional ticks for Forex\)', then options 'SL/TP 
 
 ![](../../.gitbook/assets/10f.png)
 
-If you have open positions on symbols which have overnight coefficients, you will get overnight margin notification message "Warning: on 12:49 Exchange will be closed. The margin requirements will be recalculated with the overnight coefficients before closing".
+If you have open positions on symbols which have overnight coefficients, you will get overnight margin notification message "Warning: on 12:49 Exchange will be closed. The margin requirements will be recalculated with the overnight coefficients before closing".
 
 The overnight warning message shows the following items: Account \(Account for which the margin coefficients are switched to overnight\), Margin available, Maintenance margin \(based on overnight coefficients\), Overnight margin available.
 
@@ -89,11 +89,12 @@ Overnight margin available = Balance + all risks - Overnight total maint. req.
 
 If Overnight margin available &lt; 0, user will get a message "You don’t have enough margin for overnight, we force close some positions and cancel orders".
 
-### RSS
+## RSS
 
-Using this settings section, the user can add or edit RSS feeds in order to view news through RSS panel.  
+Using this settings section, the user can add or edit RSS feeds in order to view news through RSS panel.  
 Read more about RSS panel here:
 
 [https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss](https://guide.traderevolution.com/project/desktop-application-for-windows/informative-panels/rss)_._
 
 ![](../../.gitbook/assets/6.png)
+

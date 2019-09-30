@@ -6,7 +6,7 @@ The Symbol info screen allows displaying all information about the selected symb
 
 Information by the symbol is divided into the following groups:
 
-![](../../../.gitbook/assets/9%20%281%29.png)
+![](../../../.gitbook/assets/9-1.png)
 
 1\) General:
 
@@ -92,3 +92,4 @@ Information about settings for all trade sessions:
 * Main
 * Post-market
 * After market
+

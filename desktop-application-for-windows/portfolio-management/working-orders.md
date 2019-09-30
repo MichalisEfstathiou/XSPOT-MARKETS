@@ -1,6 +1,6 @@
 # Working orders
 
-Working orders panel lists all created orders which are visible for user.
+Working orders panel lists all created orders which are visible for user.
 
 To open a new Working orders panel, select Terminal -&gt; Working orders.
 
@@ -36,9 +36,9 @@ The following columns are available in the panel:
 * Strike price - price of option contract performance.
 * Exp. date - date of contract expiration.
 
-Note: Users can select which columns to display in the Working orders panel in the panel context menu \(Settings-&gt;Columns\).
+Note: Users can select which columns to display in the Working orders panel in the panel context menu \(Settings-&gt;Columns\).
 
-### **Buttons toolbar**
+## **Buttons toolbar**
 
 The most important functions related to Working orders can be viewed as buttons in the toolbar of the panel. To select the buttons to be displayed, simply right click on the toolbar of the panel and choose the needed buttons from the menu.
 
@@ -58,7 +58,7 @@ The most important functions related to Working orders can be viewed as buttons 
 
 Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
 
-### **Context menu**
+## **Context menu**
 
 The following actions can be performed via the Context menu:
 
@@ -67,6 +67,4 @@ The following actions can be performed via the Context menu:
 * Change to Market - changes order type to market for selected orders.
 * View - allows to show total values or to show view.
 * Cancel order - allows cancelling all selected orders, all orders by selected symbol, all orders by selected account, all orders.
-
-
 

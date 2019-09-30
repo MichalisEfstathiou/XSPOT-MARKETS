@@ -1,6 +1,6 @@
 # Drawings
 
-A set of graphical tools is available to assist in price movements analysis. All of these tools are accessible via the Drawing toolbar or through the Context menu of the Chart.
+A set of graphical tools is available to assist in price movements analysis. All of these tools are accessible via the Drawing toolbar or through the Context menu of the Chart.
 
 ![](../../../.gitbook/assets/drawings.png)
 
@@ -70,7 +70,7 @@ In order to place a tool:
 
 Note: freehand is the default setting when selecting a tool from the Drawing toolbar and 'Snap to candle' is disabled.
 
-#### Context menu
+## Context menu
 
 Each drawing tool has its Context menu. Right click on the initial point of the drawing tool in order to evoke its context menu.
 
@@ -90,13 +90,13 @@ However, different sections' combinations are available for different drawings.
 
 ![](../../../.gitbook/assets/21.png)
 
-Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type \(read more about aggregation types here: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview)\). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
+Visibility – allows to set up a drawing's visibility on the chart depending on its aggregation type \(read more about aggregation types here: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/aggregation-types-overview)\). Every drawing is visible for all aggregation types by default. With defined Visibility settings a drawing becomes visible for selected aggregation types with specified parameters only:
 
 ![](../../../.gitbook/assets/22.png)
 
-Click on the button![](../../../.gitbook/assets/23%20%281%29.png)in the column Delete to remove a visibility parameter. Clicking on the button![](../../../.gitbook/assets/24%20%281%29.png)allows to set up a visibility parameter depending on a chart's aggregation type via the following dialog screen:
+Click on the button![](../../../.gitbook/assets/23-1.png) in the column Delete to remove a visibility parameter. Clicking on the button![](../../../.gitbook/assets/24-1.png)allows to set up a visibility parameter depending on a chart's aggregation type via the following dialog screen:
 
-![](../../../.gitbook/assets/25%20%281%29.png)
+![](../../../.gitbook/assets/25-1.png)
 
 * For such drawings, as Fibonacci retracement, Fibonacci expansion, Fibonacci arc, Fibonacci ellipses, Fibonacci fans, Fibonacci phi-channel, Fibonacci time goal analysis, the following sections are available:
   1. Appearance
@@ -104,4 +104,5 @@ However, different sections' combinations are available for different drawings.
   3. Visibility
   4. Fibonacci – allows to add, delete Fibonacci levels, edit their values and to set up the font, font color and width of a line of a drawing which will be colored after reaching the value which you set:
 
-![](../../../.gitbook/assets/26%20%281%29.png)
+![](../../../.gitbook/assets/26-1.png)
+

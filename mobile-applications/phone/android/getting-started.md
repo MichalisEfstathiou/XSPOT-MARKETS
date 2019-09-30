@@ -4,7 +4,7 @@ Logging in to the Mobile application is available via the main login screen:
 
 ![](../../../.gitbook/assets/log-in.png)
 
-Enter your valid login and password.
+Enter your valid login and password.
 
 Mark 'Save password' as checked to store your log in credentials into the system.
 
@@ -14,9 +14,9 @@ Tap the button 'Log in'.
 
 Note: to recover the application password, tap ‘Forgot’ option in the ‘Password’ field.
 
-![](../../../.gitbook/assets/forgot-password-new%20%281%29.png)
+![](../../../.gitbook/assets/forgot-password-new-1.png)
 
-To recover the password:
+To recover the password:
 
 * enter Login ID in the 'Login' field
 * enter email in the 'Email' field
@@ -35,3 +35,4 @@ There are three types of 'Additional verification', you can have one of them:
 Enter a received or fixed code in the appropriate field and tap the button 'OK'.
 
 _\* Recommended Android version is 5.0 and higher_
+

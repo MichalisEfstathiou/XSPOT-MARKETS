@@ -2,9 +2,9 @@
 
 VWAP allows calculating a cumulative volume-weighted average price for defined period.
 
-![](../../../../.gitbook/assets/10%20%284%29.png)
+![](../../../../.gitbook/assets/10-4.png)
 
-Visible – controls visibility of the render on a chart. Default state – False.
+Visible – controls visibility of the render on a chart. Default state – False.
 
 Use tick data – if checked, then VWAP is counted using trade prices and its volumes. In this case, combobox 'Calculation price' is not active. If checkbox 'Use tick data' is unchecked, then for each minute bar the value of minute VWAP is equal to the chosen price of minute bar, which is selected in the combobox 'Calculation price';
 
@@ -51,6 +51,4 @@ Line style – a set of standard controls for settings of visual look of a rende
 Line \#2 and Line \#3 have the same settings as Line \#1.
 
 ![](../../../../.gitbook/assets/11.png)
-
-
 

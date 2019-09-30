@@ -1,10 +1,10 @@
 # Positions
 
-Positions panel lists all currently opened positions. When a new position is opened, it appears in this panel immediately.
+Positions panel lists all currently opened positions. When a new position is opened, it appears in this panel immediately.
 
 To open Positions panel, select Terminal -&gt; Positions:
 
-![](../../.gitbook/assets/9%20%287%29.png)
+![](../../.gitbook/assets/9-7.png)
 
 The following columns are available in the panel:
 
@@ -21,7 +21,7 @@ The following columns are available in the panel:
 * Date/Time – date and time when a position was opened
 * Gross P/L – profit/loss in account currency, calculated on base of price difference:
 
-For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
+For Long position: Gross P/L = Qty. \* Lot size \* \(Current price - Open price\)
 
 For Short position: Gross P/L = Qty. \* Lot size \* \(Open price - Current price\)
 
@@ -60,7 +60,7 @@ For Short position: Position value = Position exposure – P/L
 * TP price – Take profit price set for a position
 * SL, value – shows a Stop loss sum in account currency which a trader risks by each symbol, if Stop loss triggers. Also, SL sum by all positions are output in Totals on the bottom of the panel, in order to know how much trader can lose
 
-###**Buttons toolbar**
+**Buttons toolbar**
 
 The most important functions related to Positions can be viewed as buttons in the toolbar of the panel.
 
@@ -82,7 +82,7 @@ To select the buttons to be displayed, simply right click on the toolbar of the 
 
 Note: clicking on these buttons doesn't evoke confirmation screens, even if confirmations are enabled in the 'General settings'.
 
-### **Context menu**
+## **Context menu**
 
 The following functions can be realized through context menu:
 
@@ -93,3 +93,4 @@ The following functions can be realized through context menu:
 * Mutual close – allows closing opposite positions
 * Reverse – allows reversing all selected positions, all positions by selected symbol, all positions by selected account, all positions
 * View – allows to show total values and to show toolbar
+

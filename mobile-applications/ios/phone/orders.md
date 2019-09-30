@@ -6,7 +6,7 @@ The Orders screen allows to view three lists \(slide button to change the list\)
 * Filled orders – shows executed orders.
 * Orders history – each row displays info regarding creation, modification, execution or cancelling of orders.
 
-Buy orders are displayed in the list with blue arrow, sell orders – with red. 
+Buy orders are displayed in the list with blue arrow, sell orders – with red.
 
 Each section consists of the cards list with short information about the orders: for Working orders – symbol name, quantity, open price, order type; for Filled orders – symbol name, order type, Net P/L, quantity. In order to get full information about the symbol on which the order was created, tap the symbol name.
 
@@ -31,19 +31,19 @@ Additional columns for Filled orders section:
 * Trade volume – shows total volume of the trade.
 * Price – shows price for Market and Limit orders, and Limit price for Stop limit orders. 
 
-Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar%20%281%29.jpg).
+Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar-1.jpg).
 
-![](../../../.gitbook/assets/1%20%2816%29.png)
+![](../../../.gitbook/assets/1-16.png)
 
-![](../../../.gitbook/assets/2%20%2810%29.png)
+![](../../../.gitbook/assets/2-10.png)
 
-In addition, users can cancel all orders by tapping the button ‘Сlose all’ located at the top right corner of the Working orders screen.
+In addition, users can cancel all orders by tapping the button ‘Сlose all’ located at the top right corner of the Working orders screen.
 
-In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
+In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
 ![](../../../.gitbook/assets/with-price.png)
 
 Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 
-In order to cancel the order, tap the 'Cancel' button.
+In order to cancel the order, tap the 'Cancel' button.
 

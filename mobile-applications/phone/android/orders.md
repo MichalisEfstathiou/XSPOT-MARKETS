@@ -2,7 +2,7 @@
 
 The Orders screen allows to view three lists of orders:
 
-![](../../../.gitbook/assets/1%20%2841%29.png)
+![](../../../.gitbook/assets/1-41.png)
 
 * Working orders – shows orders that are waiting for execution.
 * Filled orders – shows executed orders.
@@ -37,17 +37,17 @@ Additional columns for Filled orders section:
 
 Filled orders and Orders history sections can be viewed by selected date range, available values here are: daily, two days to date, week to date, month to date. To choose the date range, tap the button![](../../../.gitbook/assets/calendar.jpg).
 
-![](../../../.gitbook/assets/4%20%288%29.png)
+![](../../../.gitbook/assets/4-8.png)
 
-![](../../../.gitbook/assets/5%20%2810%29.png)
+![](../../../.gitbook/assets/5-10.png)
 
-In addition, users can cancel all orders by tapping the button![](../../../.gitbook/assets/delete%20%282%29.jpg)located at the top right corner of the Working orders screen.
+In addition, users can cancel all orders by tapping the button![](../../../.gitbook/assets/delete-2.jpg) located at the top right corner of the Working orders screen.
 
 In order to modify active order, tap the ‘Modify’ button and the following screen will be opened:
 
-![](../../../.gitbook/assets/7%20%2811%29.png)
+![](../../../.gitbook/assets/7-11.png)
 
-Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
+Here user can modify price, quantity, TIF, Stop loss, Trailing, and Take profit. In addition, order can be executed at a market price.
 
 In order to cancel the order, tap the 'Cancel' button.
 

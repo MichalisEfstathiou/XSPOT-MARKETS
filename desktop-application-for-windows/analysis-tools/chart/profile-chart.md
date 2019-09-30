@@ -4,13 +4,13 @@ Profile allows aggregating and plotting charts, where each bar is represented in
 
 Market profile allows to organize data in the way that trader can understand who controls the market, what is meant by fair value, and what lies behind the price movement.
 
-![](../../../.gitbook/assets/15%20%282%29.png)
+![](../../../.gitbook/assets/15-2.png)
 
-###**Algorithm of profile plotting**
+**Algorithm of profile plotting**
 
 When using market profile, the following method for plotting is applied: general time bars or tick bars which are displayed in the form of the column with Latin letters \(A, B..a, b..\) is the base for profile plotting. Bar open price is marked by special symbol – @, and bar close price – by \#.
 
-### **Profile timeframe parameters**
+## **Profile timeframe parameters**
 
 Profile aggregation can be set via using the timeframe selector:
 
@@ -23,9 +23,9 @@ Profile aggregation can be set via using the timeframe selector:
 
 **Important note:** "Build from" value must be less than "Profile based on" value. For example: Profile based on = 1H, Build from value = 5m.
 
-### **Profile settings**
+## **Profile settings**
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](../../../.gitbook/assets/image-8.png)
 
 * Data type – the way to accept data. Available types are: Default by symbol, Bid, Ask, Last. Based on server settings Last or Bid/Ask type can be disabled.
 * Font – allows selecting style of profile displaying.
@@ -38,7 +38,7 @@ Point of control \(POC\) – row with the largest number of letters – in fact,
 
 ![](../../../.gitbook/assets/17.png)
 
-3. Marker – POC line is allocated by the marker \(special symbol, for example &gt;\).
+1. Marker – POC line is allocated by the marker \(special symbol, for example &gt;\).
 
 ![](../../../.gitbook/assets/profile-chart.jpg)
 
@@ -51,8 +51,7 @@ Value area \(VA\) – characterizes the most common prices in the profile. Value
 2. Vertical – VA is plotted in the form of vertical line by the left border of the profile.
 3. Horizontal – VA is plotted in the form of vertical line, as well as with two horizontal lines going to the next profile.
 4. To next profile – VA is plotted in the form of vertical line, as well as with two horizontal lines that are plotted taking into account the next profile.
-
-* Value, % – allows setting what part of the total number of letters \(TPO\) it is necessary to display.
+5. Value, % – allows setting what part of the total number of letters \(TPO\) it is necessary to display.
 
 TPO \(Time-Price opportunities\) – characterizes the total number of letters in the profile.
 
@@ -72,3 +71,4 @@ Singles – horizontal lines are displayed on the profile in those places, where
   * Volume bars – all bars are colored in one color. The intensity of the color depends on trades quantity in the bar.
 
 Note: relative and algorithmic price scales are not applied to this aggregation type.
+

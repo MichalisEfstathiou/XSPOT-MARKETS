@@ -1,6 +1,6 @@
 # Table of contents
 
-* [XSpot Guide](README.md)
+* [XSpot PRO Guide](README.md)
 * [Desktop application for Windows](desktop-application-for-windows/README.md)
   * [How to...](desktop-application-for-windows/how-to....md)
   * [Getting started](desktop-application-for-windows/getting-started/README.md)
@@ -133,3 +133,4 @@
     * [Arranging panels](web-platform/getting-started/arranging-panels.md)
     * [Top menu and Status bar](web-platform/getting-started/top-menu-and-status-bar.md)
     * [Symbol & Account lookups](web-platform/getting-started/symbol-and-account-lookups.md)
+

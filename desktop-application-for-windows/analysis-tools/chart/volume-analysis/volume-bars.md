@@ -1,10 +1,10 @@
 # Volume bars
 
-This functionality allows to organize and analyze vertical volumes on the chart. Volume bars can be opened from the Analysis tools menu by clicking on the button![](../../../../.gitbook/assets/65.png)or through the Context menu -&gt; Analysis tools -&gt; Volume bars.​
+This functionality allows to organize and analyze vertical volumes on the chart. Volume bars can be opened from the Analysis tools menu by clicking on the button![](../../../../.gitbook/assets/65.png) or through the Context menu -&gt; Analysis tools -&gt; Volume bars.​
 
-![](../../../../.gitbook/assets/66%20%281%29.png)
+![](../../../../.gitbook/assets/66-1.png)
 
-Volume bars can be set up in the following way:​
+Volume bars can be set up in the following way:​
 
 ![](../../../../.gitbook/assets/67.png)
 
@@ -26,27 +26,39 @@ E.g., selecting " &gt;=" and specifying the value 30 will result into displaying
 
 Average total size = Total volume/ Trades count, where: Trades count – total number of trades for a selected period of time;
 
-                Average buy size – shows average volume of one buy trade:
+```text
+            Average buy size – shows average volume of one buy trade:
+```
 
 Average buy size = Total buy volume/ Buy Trades count, where: Buy trades count – total number of buy trades for a selected period of time;
 
-                Average sell size – shows average volume of one sell trade:
+```text
+            Average sell size – shows average volume of one sell trade:
+```
 
 Average sell size = Total sell volume/ Sell Trades count, where: Sell trades count – total number of sell trades for a selected period of time;
 
-                Custom volume trades, % – this mode summarizes all trades which traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total volume:
+```text
+            Custom volume trades, % – this mode summarizes all trades which traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total volume:
+```
 
 Custom volume trades, % = Count \(Total volume &gt; Amount\)/ Total trades \* 100%;
 
-                Custom buy volume trades, % – this mode summarizes all buy trades which traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total buy volume:
+```text
+            Custom buy volume trades, % – this mode summarizes all buy trades which traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total buy volume:
+```
 
 Custom buy volume trades, % = Count \(Buy volume &gt; Amount\)/ Buy trades \* 100%;
 
-                Custom sell volume trades, % – this mode summarizes all sell trades which are traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total sell volume:​
+```text
+            Custom sell volume trades, % – this mode summarizes all sell trades which are traded with volume greater than Amount \(set in settings\) and shows percentage of such trades in the total sell volume:​
+```
 
 ​Custom sell volume trades, % = Count \(Sell volume &gt; Amount\)/ Sell trades \* 100%;​
 
-                 Buy&Sell volume –​ shows buy and sell traded volumes for a specified period of time \(defined by flag-aggressor\).​
+```text
+             Buy&Sell volume –​ shows buy and sell traded volumes for a specified period of time \(defined by flag-aggressor\).​
+```
 
 * Amount – allows setting amount that is necessary for calculation of the Custom buy/sell volume trades parameters \(described above\);
 * Size coloring scheme – coloring scheme for displaying. The following schemes are available: Fixed, By bar, By difference, Above/below the moving average;

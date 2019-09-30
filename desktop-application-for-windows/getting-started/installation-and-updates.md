@@ -4,17 +4,17 @@ The application for Desktop uses a self-updating installation which means the la
 
 To install the application for Desktop just run the .exe file. During installation you will be prompted to choose the installation directory.
 
-### **Updating the program**
+## **Updating the program**
 
 Every time starting the application for Desktop, the Update manager checks for updates automatically.
 
 When an update is available, the update icon will appear at the top of the terminal:
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image-5.png)
 
 The icon remains visible until a user update the terminal to the latest version. To install new version, click on the update icon.
 
-### **Uninstall**
+## **Uninstall**
 
 To uninstall the application, select Start -&gt; Programs -&gt; 'Name of terminal' -&gt; Uninstall. User can also uninstall the application through the Control panel in the Start menu on Windows.
 
@@ -26,13 +26,13 @@ Windows Vista, Windows 7, Win 8.1/10 - Users\&lt;UserName&gt;\AppData\Roaming\Fo
 
 Any version of the application that you install, after removing the application for Desktop will continue to use the data from this profile folder.
 
-### **Login screen**
+## **Login screen**
 
 The first time running the application for Desktop there will be a default connection set up, so user can simply enter the login and password to connect.
 
 ![](../../.gitbook/assets/login-screen.png)
 
-### **Changing password**
+## **Changing password**
 
 Passwords can be changed anytime by using the following methods:
 
@@ -47,10 +47,9 @@ To recover the password:
 * enter Login ID in the Login field.
 * enter email in the Email field.
 * click Recover to receive an email with a recovery key. Then enter this key to the field.
+* After login to the application for Desktop:
 
-2. After login to the application for Desktop:
-
-To open the "Change password" / "Change trading password" window, select it in the Account menu![](../../.gitbook/assets/image%20%282%29.png):
+To open the "Change password" / "Change trading password" window, select it in the Account menu![](../../.gitbook/assets/image-2.png):
 
 Change password - allows changing the password which is entered to login into the terminal.
 
@@ -58,7 +57,7 @@ Change password - allows changing the password which is entered to login into th
 
 Change trading password - allows changing the password which is entered before making any trading operation.
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image-4.png)
 
 To change the password:
 
@@ -79,3 +78,4 @@ When changing the password the user may have some problems, and the following er
 6. Incorrect new password: password should contain 1 number and 1 uppercase letter - this message is displayed if the new password does not meet the required level of password protection \(Strong Password required, low level of protection\).
 7. Incorrect new password: password should contain at least 8 chars and numbers - this message is displayed if the new password does not meet the required level of password protection \(Strong Password required, low level of protection\).
 8. Incorrect new password: password should contain at least 8 symbols including chars, numbers and special symbols - this message is displayed if the new password does not meet the required level of password protection \(Strong Password required, low level of protection\).
+

@@ -92,3 +92,4 @@ Information about settings for all trade sessions:
 * Main
 * Post-market
 * After market
+

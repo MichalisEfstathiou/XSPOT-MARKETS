@@ -1,8 +1,8 @@
 # Positions balance
 
-Positions balance panel shows a summary of users opened positions by symbol. To open a Positions balance panel, select Terminal -&gt; Positions balance.
+Positions balance panel shows a summary of users opened positions by symbol. To open a Positions balance panel, select Terminal -&gt; Positions balance.
 
-![](../../.gitbook/assets/14%20%281%29.png)
+![](../../.gitbook/assets/14-1.png)
 
 User can select account or group of accounts for which he wants to see information.
 
@@ -26,7 +26,7 @@ Break-even point = \(Long qty.\*Average long – Short qty.\*Average short\)/\(L
 * Strike price – price of option contract performance.
 * Position value – current value of the position. Calculated based on current market price.
 
-Position value = Sum \(Position value\[i\] \* Cross price\[i\]\)
+Position value = Sum \(Position value\[i\] \* Cross price\[i\]\)
 
 For long position: Position value = \(Position exposure + Gross P/L\)
 

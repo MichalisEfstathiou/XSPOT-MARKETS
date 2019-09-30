@@ -6,7 +6,7 @@ To open the Super DOM panel, go to Terminal -&gt; Super DOM:
 
 ![](../../.gitbook/assets/31.png)
 
-The Symbol lookup is at the top of the Super DOM panel.
+The Symbol lookup is at the top of the Super DOM panel.
 
 ![](../../.gitbook/assets/32.png)
 
@@ -18,9 +18,9 @@ Day high/low – allows showing current high/low levels.
 
 ![](../../.gitbook/assets/33.png)
 
-Right click tapping within the Market depth section, evokes the Context menu of the panel.
+Right click tapping within the Market depth section, evokes the Context menu of the panel.
 
-![](../../.gitbook/assets/34%20%281%29.png)
+![](../../.gitbook/assets/34-1.png)
 
 * Compress spread – allows skipping empty levels between the best Bid and best Ask
 * Autocenter – allows auto centering the panel relatively to spread
@@ -30,13 +30,13 @@ Day high/low – allows showing current high/low levels.
 * Antagonistic size bars – allows to determine the direction of volume histograms. If true, the histograms appear from the different boundaries of the column ‘Size’. If false, the histograms appear from the left boundary of the column ‘Size’. Default state: true
 * Full-size cells – allows extending the bars
 
-![](../../.gitbook/assets/35%20%281%29.png)
+![](../../.gitbook/assets/35-1.png)
 
-![](../../.gitbook/assets/36%20%281%29.png)
+![](../../.gitbook/assets/36-1.png)
 
 * Settings – allows opening a settings tab.
 
-The bottom position bar shows the current state of the position: open price, open position quantity, current profit and loss.
+The bottom position bar shows the current state of the position: open price, open position quantity, current profit and loss.
 
 ![](../../.gitbook/assets/p-bar.png)
 
@@ -61,18 +61,17 @@ The color of QTY cell depends on the side of the position:
 2. If all positions have Side = Short, qty. cell will be colored in red
 3. If positions are multi-directional, then qty. cell is not colored
 4. If there are no positions, qty. cell will not be colored and qty. value = N/A
-
-* When trading multi-position symbols, open price of all the positions is calculated as weighted average value
-* The Orders column shows all pending orders and allows their modification. Limit orders are displayed as numbers, and Stop orders - as underlined numbers. Group of orders is displayed with two vertical lines of the pending order left side
-* The Size column shows how many trade operations with Ask/Bid are available at a specific price
-* Clicking on Cancel buy, Cancel sell, or Cancel all will close all buy, sell, or total orders respectively for the currently displayed symbol and account
-* Close position button allows closing the current position by selected symbol and account
+5. When trading multi-position symbols, open price of all the positions is calculated as weighted average value
+6. The Orders column shows all pending orders and allows their modification. Limit orders are displayed as numbers, and Stop orders - as underlined numbers. Group of orders is displayed with two vertical lines of the pending order left side
+7. The Size column shows how many trade operations with Ask/Bid are available at a specific price
+8. Clicking on Cancel buy, Cancel sell, or Cancel all will close all buy, sell, or total orders respectively for the currently displayed symbol and account
+9. Close position button allows closing the current position by selected symbol and account
 
 On the right side of the Super DOM panel there is a built-in Order entry panel. The order amount can be specified on the top of panel. Also the TIF of the order, SL/TP offset and Trailing stop.
 
 Click on Buy Market or Sell Market to Buy/Sell at market price.
 
-**Mouse trading** – allows trading using mouse \(when the corresponding button is activated on the top of the panel\). Clicking on the Buy column allows placing Buy orders, on the Sell column – Sell orders. You can switch the order type from Limit to Stop using the hotkey "Shift" \(can be changed in General settings   -&gt; Hotkeys -&gt; Super DOM\).
+**Mouse trading** – allows trading using mouse \(when the corresponding button is activated on the top of the panel\). Clicking on the Buy column allows placing Buy orders, on the Sell column – Sell orders. You can switch the order type from Limit to Stop using the hotkey "Shift" \(can be changed in General settings -&gt; Hotkeys -&gt; Super DOM\).
 
 Mouse trading rules:
 
@@ -86,13 +85,13 @@ Clicking on the group of orders on one price allows showing the list of pending 
 
 ![](../../.gitbook/assets/sup.png)
 
-**Super DOM settings**
+**Super DOM settings**
 
 Super DOM settings have 2 tabs, each of them consists of several parts:
 
 ![](../../.gitbook/assets/view.png)
 
-**View**
+**View**
 
 ![](../../.gitbook/assets/view2.png)
 
@@ -114,7 +113,7 @@ Base settings:
 
 ![](../../.gitbook/assets/d1.png)
 
-Check/uncheck the needed hot buttons in order to display them in the Quick OE section of the Super DOM panel:
+Check/uncheck the needed hot buttons in order to display them in the Quick OE section of the Super DOM panel:
 
 * Buy Market/Sell Market
 * Sell Bid/Buy Ask
@@ -129,47 +128,43 @@ Base settings:
 
 Table colors:
 
-  - Grid – color of the vertical grid in the Market depth section
-
-  - Table – color of the table filling
+* Grid – color of the vertical grid in the Market depth section
+* Table – color of the table filling
 
 Level1 colors:
 
-  - Color settings for Best ask and Best bid rows
+* Color settings for Best ask and Best bid rows
 
 Extension:
 
-  - Color settings for maximal and minimal price markers, settlement price, previous settlement price
+* Color settings for maximal and minimal price markers, settlement price, previous settlement price
 
 Mouse trading:
 
-  - Hover – color and line types settings when sliding the cursor through each price level
+* Hover – color and line types settings when sliding the cursor through each price level
 
 ![](../../.gitbook/assets/d5.png)
 
-Position bar:
+Position bar:
 
-  - Buy/Sell color settings – change colors in the Position bar \(Price and QTY\), when positions are Long/Short
+* Buy/Sell color settings – change colors in the Position bar \(Price and QTY\), when positions are Long/Short
+* Profit/Loss color settings – change colors in the Position bar \(Price and QTY\), when P/L is positive/negative
 
-  - Profit/Loss color settings – change colors in the Position bar \(Price and QTY\), when P/L is positive/negative
+Size bars colors:
 
-Size bars colors:                
-
-  - Size coloring scheme – allows selecting the coloring scheme of volume indicators. The following options are available: Relative bar by volume, Relative bar by max volume
-
-  - Max volume – allows choosing the maximal volume. The field is active when ‘Size coloring scheme’ is ‘Relative bar by max volume’
-
-  - Asks/Bids size bars – color settings for filling the volumes by Ask and Bid
+* Size coloring scheme – allows selecting the coloring scheme of volume indicators. The following options are available: Relative bar by volume, Relative bar by max volume
+* Max volume – allows choosing the maximal volume. The field is active when ‘Size coloring scheme’ is ‘Relative bar by max volume’
+* Asks/Bids size bars – color settings for filling the volumes by Ask and Bid
 
 ![](../../.gitbook/assets/d61.png)
 
-###**Super DOM hotkeys**
+**Super DOM hotkeys**
 
 The list of hotkeys to set for the Super DOM panel is available in the General settings -&gt; Hotkeys -&gt; Super DOM.
 
 The Super DOM hotkeys have the following functions:
 
-*  Cancel last order on selected instrument – allows cancelling the last order on the selected instrument**.**
+* Cancel last order on selected instrument – allows cancelling the last order on the selected instrument**.**
 * Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
 * Cancel Buy order\(s\) closest to the last price – allows cancelling Buy order\(s\) closest to the last price.
 * Cancel Sell order\(s\) closest to the last price – allows cancelling Sell order\(s\) closest to the last price.
@@ -177,3 +172,4 @@ The Super DOM hotkeys have the following functions:
 * Set qty. equal to opened position's qty – allows setting quantity equal to opened position’s quantity.
 * Autocenter – allows autocentering Bid/Ask while scrolling the panel.
 * Modifier: Stop order when mouse click – allows modifying the order into Stop order while pressing the hotkey and clicking on the order.
+

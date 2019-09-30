@@ -4,13 +4,13 @@ Analyzer tab is used for graphic analysis before starting to trade options.
 
 Analyzer tab has the general view as follows:
 
-![](../../../.gitbook/assets/analyzer%20%281%29.jpg)
+![](../../../.gitbook/assets/analyzer-1.jpg)
 
-The main purpose of this tab is to describe graphically the portfolio of positions \(Test on paper tab\), and also to model changing of impact factors on portfolio.
+The main purpose of this tab is to describe graphically the portfolio of positions \(Test on paper tab\), and also to model changing of impact factors on portfolio.
 
 ![](../../../.gitbook/assets/calculator.png)
 
-While setting the corresponding changes of time and volatility user can model changing of portfolio cost which consists of options and underlier.
+While setting the corresponding changes of time and volatility user can model changing of portfolio cost which consists of options and underlier.
 
 * Chart type – allows setting the type of displayed information on the chart. The following types are available here: P/L, Delta, Gamma, Vega and Theta.
 * 'T +' – allows modeling changes in the numbers of days remaining until expiration of option or futures contract.
@@ -41,7 +41,7 @@ Right click by the auxiliary axis and choose data series to display as overlay o
 
 Only one data series can be selected. "What if" scenario is not applied to the data series located on the auxiliary axes. Double click in the chart area or by X axis in order to enable Auto scale mode for both axes simultaneously.
 
-### **Probability calculation algorithm**
+## **Probability calculation algorithm**
 
 **Single mode**
 
@@ -116,3 +116,4 @@ Point С \(Close price\) is selected randomly from the array of loaded history. 
 * If Simulation model = By logarithmic price, then С' = C \* e^R1 and С’’ = C’ \* e^R2
 
 Probability calculation is performed similar to the Singe mode, but two events should be executed consecutively.
+

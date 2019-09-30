@@ -1,6 +1,6 @@
 # Chart overview
 
-Chart is the most useful panel for an active trader. Charts enable users to view quotes history, analyze market patterns, and make decisions being well-informed.
+Chart is the most useful panel for an active trader. Charts enable users to view quotes history, analyze market patterns, and make decisions being well-informed.
 
 This section describes the Chart panel and its functions.
 
@@ -23,25 +23,25 @@ This section describes the Chart panel and its functions.
 
 To show/hide elements on Chart, right click anywhere within the chart, select View, and check/uncheck the desired items in this section.
 
-### Navigation
+## Navigation
 
-Users can zoom in and out on charts, scroll it horizontally and vertically, change the bar width, and manually refresh the chart.
+Users can zoom in and out on charts, scroll it horizontally and vertically, change the bar width, and manually refresh the chart.
 
-#### **Time zooming**
+### **Time zooming**
 
 To zoom in and out on the Chart panel users can use the scroll button on their mouse or simply drag the chart border in the Timeline panel using the scroll:
 
-![](../../../.gitbook/assets/2%20%2817%29.png)
+![](../../../.gitbook/assets/2-17.png)
 
 The scroll bar functions are similar to the scroll bar in a web browser - click, hold, and drag. Use scroll to move the data on the chart, buttons "+" and "-" to zoom in or out, and the arrow-icon to go to the last quote bar.
 
-The chart has a possibility of moving "bar by bar" using a hotkey. A hotkey can be set in General settings   -&gt; Hotkeys -&gt; Chart; by default hotkey F12 is specified. After pressing the hotkey, the chart will be moved on one bar to the left. Moving is performed prior to the default offset to the scale.
+The chart has a possibility of moving "bar by bar" using a hotkey. A hotkey can be set in General settings -&gt; Hotkeys -&gt; Chart; by default hotkey F12 is specified. After pressing the hotkey, the chart will be moved on one bar to the left. Moving is performed prior to the default offset to the scale.
 
-#### **Price scale zooming**
+### **Price scale zooming**
 
 User can zoom in or out on the chart by price scale \(vertically\). Click on the price axis, drag it up and down to scale the price axis.
 
-#### **Scrolling the chart**
+### **Scrolling the chart**
 
 To scroll the chart horizontally, just drag the active section in the Timeline, or click inside the chart and drag it there.
 
@@ -53,15 +53,15 @@ Three types of the price scale are available: Absolute, Relative and Logarithmic
 * Relative - displays the price scale in the relative units, where as a starting point can be used: first point of the screen visibility, point of the day opening, and starting point of the history.
 * Logarithmic - logarithmic scale representation, where as a starting point can be used the same points as for relative scale.
 
-![](../../../.gitbook/assets/3%20%281%29.png)
+![](../../../.gitbook/assets/3-1.png)
 
-If a user prefers Auto scale mode, he may choose fit indicators, fit orders/positions, or fit day High/Low options to be sure that all desired values are visible on a Chart that automatically scales.
+If a user prefers Auto scale mode, he may choose fit indicators, fit orders/positions, or fit day High/Low options to be sure that all desired values are visible on a Chart that automatically scales.
 
-#### **Refreshing the chart**
+### **Refreshing the chart**
 
 Charts refresh automatically. If, however, a user needs to refresh the chart manually, right click inside of the Chart and select Refresh. This action will reload the chart data and redraw chart.
 
-#### **Right information button**
+### **Right information button**
 
 Working with right mouse button, user can get the following information:
 
@@ -73,9 +73,9 @@ Working with right mouse button, user can get the following information:
 
 In order to get this information, click right mouse button, hold it and lead the mouse across the screen to the needed point.
 
-![](../../../.gitbook/assets/4%20%2829%29.png)
+![](../../../.gitbook/assets/4-29.png)
 
-#### **Additional options**
+### **Additional options**
 
 Right clicking on the timeline shows the panel with additional options:
 
@@ -83,8 +83,9 @@ Right clicking on the timeline shows the panel with additional options:
 * Show holes in the history - this option displays bars with no price that appears when the market is closed.
 * Show extended sessions - this option displays all quotes received on pre-session, main session and post-session. The timeframes for sessions should be set in the Backoffice for each symbol.
 
-![](../../../.gitbook/assets/5%20%2817%29.png)
+![](../../../.gitbook/assets/5-17.png)
 
-In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
+In addition, user can activate "Scrollbar chart preview" option in the chart settings in order to find quickly the necessary place of the chart, such as trend or flat sections.
 
-![](../../../.gitbook/assets/6%20%2824%29.png)
+![](../../../.gitbook/assets/6-24.png)
+

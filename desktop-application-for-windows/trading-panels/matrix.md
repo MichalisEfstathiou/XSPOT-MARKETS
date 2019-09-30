@@ -1,14 +1,14 @@
 # Matrix
 
-The Matrix panel is a simple way to trade and analyze level II quotes simultaneously.
+The Matrix panel is a simple way to trade and analyze level II quotes simultaneously.
 
 To open a new Matrix panel, go to Terminal -&gt; Matrix:
 
-![](../../.gitbook/assets/55%20%281%29.png)
+![](../../.gitbook/assets/55-1.png)
 
-The top panel of the Matrix consists of the Symbol and Account lookups, trading button and Menu button.
+The top panel of the Matrix consists of the Symbol and Account lookups, trading button and Menu button.
 
-![](../../.gitbook/assets/56%20%281%29.png)
+![](../../.gitbook/assets/56-1.png)
 
 * Autocenter button – allows autocentering the panel relatively to spread
 * Mouse trading button – allows one-click trading with the help of the mouse
@@ -39,14 +39,13 @@ The color of QTY cell depends on the side of the position:
 2. If all positions have Side = Short, qty. cell will be colored in red
 3. If positions are multidirectional, then qty. cell is not colored
 4. If there are no positions, qty. cell will not be colored and qty. value = N/A
+5. When trading multi-position symbols, open price of all the positions is calculated as weighted average value
+6. The Orders column shows all pending orders and allows their modification. Limit orders are displayed as numbers, and Stop orders - as underlined numbers. Group of orders is displayed with two vertical lines of the pending order left side
+7. The Size column shows how many trade operations with Ask/Bid are available at a specific price
+8. Clicking on Cancel buy, Cancel sell, or Cancel all will close all buy, sell, or total orders respectively for the currently displayed symbol and account
+9. Close position button allows closing the current position by selected symbol and account
 
-* When trading multi-position symbols, open price of all the positions is calculated as weighted average value
-* The Orders column shows all pending orders and allows their modification. Limit orders are displayed as numbers, and Stop orders - as underlined numbers. Group of orders is displayed with two vertical lines of the pending order left side
-* The Size column shows how many trade operations with Ask/Bid are available at a specific price
-* Clicking on Cancel buy, Cancel sell, or Cancel all will close all buy, sell, or total orders respectively for the currently displayed symbol and account
-* Close position button allows closing the current position by selected symbol and account
-
-On the right side of the Matrix panel there is a built-in Order entry panel. The order amount can be specified on the top of panel. Also the TIF of the order, SL/TP offset and Trailing stop.
+On the right side of the Matrix panel there is a built-in Order entry panel. The order amount can be specified on the top of panel. Also the TIF of the order, SL/TP offset and Trailing stop.
 
 Click on Buy Market or Sell Market to Buy/Sell at market price.
 
@@ -60,13 +59,13 @@ Mouse trading rules:
 * If an order is open on current price, then clicking \(with any button\) on it \(in orders area\) will lead to its closure
 * If several orders are open on current price \(summary volume is shown in the orders area\), then when canceling the order the first exposed order will be cancelled in the first place
 
-### **Matrix settings**
+## **Matrix settings**
 
 Matrix settings have three sections to setup.
 
 **General**
 
-![](../../.gitbook/assets/58%20%281%29.png)
+![](../../.gitbook/assets/58-1.png)
 
 * Line types, colors and steps for the horizontal grid that are used in the panel can be set here. General color of the panel background is also set here
 * Autocenter – activates autocentering function
@@ -141,19 +140,20 @@ Color and line types’ settings for established orders and positions.
 * Buy/Sell color settings – change colors in the Position bar \(Price and QTY\), when positions are Long/Short
 * Profit/Loss color settings – change colors in the Position bar \(Price and QTY\), when P/L is positive/negative
 
-### **Matrix hotkeys**
+## **Matrix hotkeys**
 
 The list of hotkeys to set for the Matrix panel is available in the General settings - &gt; Hotkeys - &gt; Matrix.
 
 Matrix hotkeys have the following functions:
 
-*  Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
-*  Cancel last order on selected instrument – allows cancelling last order on the selected instrument.
-*  Cancel Buy order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
-*  Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
-*  Modifier: Stop order when mouse click – allows stopping the order when mouse click.
-*  Modifier: Group actions with orders – allows grouping actions with orders.
-*  Autocenter – allows autocentering Bid/Ask while scrolling the panel.
-*  Set autocenter type to ask – allows setting autocenter type to ask.
-*  Set autocenter type to bid – allows setting autocenter type to bid.
-*  Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
+* Cancel all active orders on selected instrument – allows cancelling all active orders on the selected instrument.
+* Cancel last order on selected instrument – allows cancelling last order on the selected instrument.
+* Cancel Buy order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+* Cancel Sell order\(s\) closest to the last price – in case of existence of two orders of different price, the order which is closer to the last price is cancelled. In case of existence of two or more orders of the same price, all orders are cancelled because they are equidistant from the last price.
+* Modifier: Stop order when mouse click – allows stopping the order when mouse click.
+* Modifier: Group actions with orders – allows grouping actions with orders.
+* Autocenter – allows autocentering Bid/Ask while scrolling the panel.
+* Set autocenter type to ask – allows setting autocenter type to ask.
+* Set autocenter type to bid – allows setting autocenter type to bid.
+* Set qty. equal to opened position's qty. – allows setting quantity equal to opened position’s quantity.
+

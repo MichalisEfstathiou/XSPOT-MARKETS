@@ -1,6 +1,6 @@
 # Watchlist
 
-The Watchlist panel displays real-time market data for each symbol available through a broker.
+The Watchlist panel displays real-time market data for each symbol available through a broker.
 
 To open a Watchlist panel, select Terminal -&gt; Watchlist.
 
@@ -46,13 +46,13 @@ For each symbol, the following information is available:
 
 ![](../../.gitbook/assets/watchlist-comment.png)
 
-### **Symbols lists creation** 
+**Symbols lists creation**
 
-The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the button![](../../.gitbook/assets/++.png), located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list. 
+The Watchlist panel enables user to create custom sets of symbols lists. In order to add symbols to the Watchlist, click on the button![](../../.gitbook/assets/++.png), located at the top left corner of the panel’s toolbar. Select the needed symbols from the 'Symbols lookup' window. By finishing symbols selection, press 'Add'. From the drop-down menu of Symbol list user is able to create new symbol lists. In this list all created instruments lists are displayed. Buttons of list renaming or deleting are located right to each list.
 
 ![](../../.gitbook/assets/symbol.png)
 
-### **Customizing the Watchlist**
+**Customizing the Watchlist**
 
 ​Right clicking within the Watchlist panel evokes its context menu. From this menu a user can:
 
@@ -65,15 +65,15 @@ The Watchlist panel enables user to create custom sets of symbols lists. In orde
 * receive notifications about trading events by preset conditions;
 * export symbols list to CSV or Excel format.
 
-### **Symbol Info**
+## **Symbol Info**
 
-Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/info1.png)of a certain symbol in the Watchlist.
+Symbol Info panel allows displaying settings information for a selected symbol. To open the panel, click on the info button![](../../.gitbook/assets/info1.png) of a certain symbol in the Watchlist.
 
 ![](../../.gitbook/assets/w1.png)
 
-All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../.gitbook/assets/2v.png).
+All information is divided into 6 groups. Each group can be hidden by one click on a group header. The following symbols appear on a header when a group is hidden or opened![](../../.gitbook/assets/2v.png).
 
-The following information is available in each group:
+The following information is available in each group:
 
 1\) General info:
 
@@ -92,13 +92,15 @@ Symbol Info panel allows displaying settings information for a selected symbol. 
 
 For symbols with asset class Futures and Options, expiration dates templates are available on the Server. Your administrator can select there the following templates, depending on which the dates will be defined for 'Symbol info panel':
 
-                 Contract month;
+```text
+             Contract month;
 
-                 Contract month, Last trade date, Settlement date, Notice date, First trade date;
+             Contract month, Last trade date, Settlement date, Notice date, First trade date;
 
-                 Contract month, Last trade date, Settlement date, Notice date;
+             Contract month, Last trade date, Settlement date, Notice date;
 
-                 Contract month, Last trade.
+             Contract month, Last trade.
+```
 
 * Delivery method – type of asset delivery. Available for Futures, Bonds, Spot, Forward instruments. Can be only Cash for Bonds;
 * Strike price – price level of an underlier by which Option contract must be executed;

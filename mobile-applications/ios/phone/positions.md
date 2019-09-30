@@ -2,13 +2,13 @@
 
 The Positions screen displays all opened positions. Every new opened position appears in this screen immediately.
 
-![](../../../.gitbook/assets/1-%283%29.png)
+![](../../../.gitbook/assets/1-3.png)
 
-The Positions screen displays a list of opened positions with short information about a symbol on which every position was opened: quantity and open price. Quantity of long positions is blue, quantity of short positions – red.
+The Positions screen displays a list of opened positions with short information about a symbol on which every position was opened: quantity and open price. Quantity of long positions is blue, quantity of short positions – red.
 
 In order to get full information about a symbol, tap a symbol's name.
 
-![](../../../.gitbook/assets/2-%284%29.PNG)
+![](../../../.gitbook/assets/2-4.PNG)
 
 * Fee – shows the total commission amount taken for a position
 * Date/time – shows date and time when a position was opened
@@ -23,8 +23,9 @@ In addition, you can close all positions by tapping the button ‘Close all’ l
 
 In order to modify a position, tap the 'Modify' button and the following screen will be opened:
 
-![](../../../.gitbook/assets/3-%282%29.PNG)
+![](../../../.gitbook/assets/3-2.PNG)
 
-Here you can modify stop loss, take profit or trailing stop.
+Here you can modify stop loss, take profit or trailing stop.
 
 In order to close a position, tap the button 'Close'.
+

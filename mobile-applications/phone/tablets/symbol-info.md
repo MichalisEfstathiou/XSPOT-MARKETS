@@ -2,9 +2,9 @@
 
 The Symbol info screen allows displaying all information about the selected symbol. To open the Symbol info, a user needs to open the Watchlist and swipe left the selected instrument name. Then tap the button 'Info' in the Symbol menu.
 
-![](../../../.gitbook/assets/4-copy%20%282%29.png)
+![](../../../.gitbook/assets/4-copy-2.png)
 
-Information by the symbol is divided into the following groups:
+Information by the symbol is divided into the following groups:
 
 ![](../../../.gitbook/assets/symbol-info.png)
 
@@ -26,7 +26,7 @@ The Symbol info screen allows displaying all information about the selected symb
 * Coupon cycle – periodicity of a bond yield payment to a position holder. Available for Bonds
 * Accrued interest – value of accrued interest, which a buyer will pay when buying a Bond, and a seller will get when selling a Bond. Value is indicated for 1 lot. Measured in quoting currency. Available for Bonds.
 
-2\) Trading info:
+2\) Trading info:
 
 * Symbol status – the instrument trading status, available values: Open, Closed. With the symbol status set to Closed, the instrument trading is blocked
 * Allowed operations – New, Modification, Cancel
@@ -47,7 +47,7 @@ The Symbol info screen allows displaying all information about the selected symb
 * Next holiday – the name of the next holiday and its date
 * Trading blocked on session – shows whether trading is blocked on the current session
 
-3\) Margin requirements:
+3\) Margin requirements:
 
 * Margin by account – shows margin requirements based on account coefficients
 * Margin req. – shows margin requirements, which depend on the margin calculation type. When the "None" margin calculation type is selected for the instrument, the "-" is displayed
@@ -92,3 +92,4 @@ Information about settings for all trade sessions:
 * Main
 * Post-market
 * After market
+

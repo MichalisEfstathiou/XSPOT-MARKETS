@@ -8,7 +8,7 @@ MAM groups may have an unlimited quantity of accounts. Trading within the MAM pa
 
 Account statistics is available for the prelinked accounts.
 
-### Allocation methods
+## Allocation methods
 
 There are four allocation methods available in MAM:
 
@@ -24,7 +24,7 @@ There are four allocation methods available in MAM:
       <td style="text-align:left">Lot multiplier</td>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/1 (50).png" alt/>
+          <img src="../../.gitbook/assets/1-50.png" alt/>
         </p>
         <p>MVol - order size entered by manager</p>
         <p>Vol i - volume of open positions on the subaccount</p>
@@ -35,32 +35,32 @@ There are four allocation methods available in MAM:
       <td style="text-align:left">Lot allocation</td>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/2 (42).png" alt/>
+          <img src="../../.gitbook/assets/2-42.png" alt/>
         </p>
         <p>Vol i - volume of open positions on the subaccount</p>
         <p>MVol - order size entered by manager</p>
-        <p>Lot i – the coefficient setting for the subaccount</p>
-        <p>∑ Lot – sum of all coefficients of all active accounts</p>
+        <p>Lot i &#x2013; the coefficient setting for the subaccount</p>
+        <p>&#x2211; Lot &#x2013; sum of all coefficients of all active accounts</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Proportional by balance</td>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/3 (38).png" alt/>
+          <img src="../../.gitbook/assets/3-38.png" alt/>
         </p>
         <p>balance i - the balance of the subaccount</p>
-        <p>∑balance - the balance of all active subaccounts</p>
+        <p>&#x2211;balance - the balance of all active subaccounts</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Proportional by equity</td>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/4 (6).png" alt/>
+          <img src="../../.gitbook/assets/4-6.png" alt/>
         </p>
         <p>Equity i - the equity of the subaccount</p>
-        <p>∑Equity - the sum of equity of all subaccounts</p>
+        <p>&#x2211;Equity - the sum of equity of all subaccounts</p>
       </td>
     </tr>
   </tbody>

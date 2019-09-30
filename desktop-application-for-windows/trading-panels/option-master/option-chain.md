@@ -4,7 +4,7 @@ The option chain tab shows detailed information about specific option contract a
 
 ![](../../../.gitbook/assets/opt-chain.png)
 
-In Option chain tab the coloring method “By difference” is used. Depending on what type of price change comes at a certain strike to buy or sell, it is highlighted in green or red.
+In Option chain tab the coloring method “By difference” is used. Depending on what type of price change comes at a certain strike to buy or sell, it is highlighted in green or red.
 
 Check the needed option contracts in order to make them accessible for the trading in the Option chain tab.
 
@@ -20,7 +20,7 @@ Use ‘Analyzer’ and ‘Volatility lab’ tabs to analyze "paper" positions be
 
 ![](../../../.gitbook/assets/3opt.png)
 
-**Positions** tab shows actually existing positions by Options with previously selected in the Instrument lookup underlier; positions opened by this underlier can be also displayed here.
+**Positions** tab shows actually existing positions by Options with previously selected in the Instrument lookup underlier; positions opened by this underlier can be also displayed here.
 
 **Orders** tab shows all orders by Options with previously selected in the Instrument lookup underlier; orders created by this underlier can be also displayed here.
 
@@ -37,3 +37,4 @@ The following buttons of the tab allow the following actions:
 SL/TP for orders
 
 If setting located in General settings -&gt; Trading defaults -&gt; Show SL/TP price in offset is checked, it is allowed to edit column SL \(TP\) offset; SL \(TP\) price/risk is not available for editing and is recalculated automatically. If unchecked, it is allowed to edit column SL \(TP\) price/risk; SL \(TP\) offset is not available for editing and is recalculated automatically.
+

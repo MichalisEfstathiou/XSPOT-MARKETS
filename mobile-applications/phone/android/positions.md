@@ -2,9 +2,9 @@
 
 The Positions screen displays all opened positions. Every new opened position appears in this screen immediately.
 
-![](../../../.gitbook/assets/1%20%2813%29.png)
+![](../../../.gitbook/assets/1-13.png)
 
-The Positions screen displays a list of opened positions with short information about a symbol on which every position was opened: quantity and open price. Quantity of long positions is blue, quantity of short positions – red.
+The Positions screen displays a list of opened positions with short information about a symbol on which every position was opened: quantity and open price. Quantity of long positions is blue, quantity of short positions – red.
 
 In order to get full information about a symbol, tap a symbol's name.
 
@@ -23,12 +23,13 @@ In addition, you can close all positions by tapping the button ‘Close all’ l
 
 In order to modify a position, tap the 'Modify' button and the following screen will be opened:
 
-![](../../../.gitbook/assets/3%20%2831%29.png)
+![](../../../.gitbook/assets/3-31.png)
 
-Here you can modify stop loss, take profit or trailing stop.
+Here you can modify stop loss, take profit or trailing stop.
 
-In order to close a position, tap the button 'Close', and the following intuitive screen allowing a partial position closing will be opened:   
+In order to close a position, tap the button 'Close', and the following intuitive screen allowing a partial position closing will be opened:
 
-![](../../../.gitbook/assets/4%20%2827%29.png)
+![](../../../.gitbook/assets/4-27.png)
 
 The field 'Qty. to close' allows to indicate some quantity of lots to close. This option is active, when it is allowed on the server-side with broker's settings. Also, the 'Position closing' confirmation must be activated in the ‘Settings’ menu.
+
