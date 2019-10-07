@@ -124,13 +124,4 @@
       * [Positions](mobile-applications/ios/tablets/positions.md)
       * [Market depth](mobile-applications/ios/tablets/market-depth.md)
       * [Event log](mobile-applications/ios/tablets/event-log.md)
-* [Web platform](web-platform/README.md)
-  * [Getting started](web-platform/getting-started/README.md)
-    * [Login screen](web-platform/getting-started/login-screen.md)
-    * [General settings](web-platform/getting-started/general-settings.md)
-    * [Managing columns](web-platform/getting-started/managing-columns.md)
-    * [Workspaces](web-platform/getting-started/workspaces.md)
-    * [Arranging panels](web-platform/getting-started/arranging-panels.md)
-    * [Top menu and Status bar](web-platform/getting-started/top-menu-and-status-bar.md)
-    * [Symbol & Account lookups](web-platform/getting-started/symbol-and-account-lookups.md)
 
