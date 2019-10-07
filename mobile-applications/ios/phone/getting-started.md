@@ -2,7 +2,7 @@
 
 Logging in to the Mobile application is available via the main login screen:
 
-![](../../../.gitbook/assets/login-ios.png)
+![](../../../.gitbook/assets/login-ios%20%282%29.png)
 
 Enter your valid login and password.
 
@@ -14,13 +14,13 @@ Tap the button 'Log in'.
 
 Note: to recover the application password, tap ‘Forgot’ option in the ‘Password’ field.
 
-![](../../../.gitbook/assets/forget-password-ios.png)
+![](../../../.gitbook/assets/login-ios%20%281%29.png)
 
-To recover the password:
+A pop-up window will open to recover the password.
 
-* enter Login ID in the 'Login' field
-* enter email in the 'Email' field
-* tap 'Recover' to receive an email with a recovery key. Then enter this key to the field
+![](../../../.gitbook/assets/img_3668.png)
+
+Type your email address and tap the button "Restore Password". You will receive an email with your new password.
 
 _\*Recommended iOS version is 9 or higher_
 

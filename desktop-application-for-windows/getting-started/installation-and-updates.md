@@ -40,14 +40,7 @@ Passwords can be changed anytime by using the following methods:
 
 If user forgot his password and needs to log in, simply click on the "Forgot password" button on the main login screen.
 
-![](../../.gitbook/assets/password.png)
-
-To recover the password:
-
-* enter Login ID in the Login field.
-* enter email in the Email field.
-* click Recover to receive an email with a recovery key. Then enter this key to the field.
-* After login to the application for Desktop:
+After clicking "Forgot password" a browser window will open to type your email address. By clicking "Restore Password" you will receive an email with your new password.
 
 To open the "Change password" / "Change trading password" window, select it in the Account menu![](../../.gitbook/assets/image-2.png):
 

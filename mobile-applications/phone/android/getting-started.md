@@ -14,25 +14,13 @@ Tap the button 'Log in'.
 
 Note: to recover the application password, tap ‘Forgot’ option in the ‘Password’ field.
 
-![](../../../.gitbook/assets/forgot-password-new-1.png)
+![](../../../.gitbook/assets/screenshot_20191007-121136_xspot-pro.png)
 
-To recover the password:
+A pop-up window will open to recover the password.
 
-* enter Login ID in the 'Login' field
-* enter email in the 'Email' field
-* tap 'Recover' to receive an email with a recovery key. Then enter this key to the field
+![](../../../.gitbook/assets/screenshot_20191007-121145_chrome.png)
 
-In case you have the 'Additional verification' set up by your administrator, after tapping the button 'Log in' the following dialog window appears:
-
-![](../../../.gitbook/assets/sms-fa-copy-2.png)
-
-There are three types of 'Additional verification', you can have one of them:
-
-* SMS one-time pass
-* E-mail one-time pass
-* Fixed pass
-
-Enter a received or fixed code in the appropriate field and tap the button 'OK'.
+Type your email address and tap the button "Restore Password". You will receive an email with your new password.
 
 _\* Recommended Android version is 5.0 and higher_
 
