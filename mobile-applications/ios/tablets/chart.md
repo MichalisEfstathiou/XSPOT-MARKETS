@@ -48,5 +48,5 @@ Orders are displayed on the chart with the quantity value inside of the order ma
 
 Read more information about Order entry screen here:
 
-[https://guide.traderevolution.com/project/mobile-applications/ios/tablets/order-entry](https://guide.traderevolution.com/project/mobile-applications/ios/tablets/order-entry)
+[https://guide.xspot.markets/mobile-applications/ios/tablets/order-entry](https://guide.xspot.markets/mobile-applications/ios/tablets/order-entry)
 

@@ -50,5 +50,5 @@ The Order entry screen enables user to send orders. The Order entry icon![](../.
 
 Read more information about Order entry screen here:
 
-[https://guide.traderevolution.com/project/mobile-applications/ios/phone/order-entry](https://guide.traderevolution.com/project/mobile-applications/ios/phone/order-entry)
+[https://guide.xspot.markets/mobile-applications/ios/phone/order-entry](https://guide.xspot.markets/mobile-applications/ios/phone/order-entry)
 
