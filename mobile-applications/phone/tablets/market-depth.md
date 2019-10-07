@@ -17,5 +17,5 @@ To open Order entry screen, tap the Order entry button![](../../../.gitbook/asse
 
 Read more about the Order entry screen here:
 
-[https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry](https://guide.traderevolution.com/project/mobile-applications/phone/tablets/order-entry)
+[https://guide.xspot.markets/mobile-applications/phone/tablets/order-entry](https://guide.xspot.markets/mobile-applications/phone/tablets/order-entry)
 
