@@ -4,7 +4,7 @@
 
 Reset your password following the recommendations from the ‘Changing password’ section:
 
-[https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/installation-and-updates)
+[https://guide.xspot.markets/desktop-application-for-windows/getting-started/installation-and-updates](https://guide.xspot.markets/desktop-application-for-windows/getting-started/installation-and-updates)
 
 ## **2. How to find the ID of the order / position?**
 
@@ -76,7 +76,7 @@ Click on the ‘Import’ button at the bottom of Indicators lookup.
 * VWAP can be enabled in such panels as Chart, Market depth, Scalper, Matrix, Order entry.
 * Read more about VWAP here:
 
-[https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap)
+[https://guide.xspot.markets/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap](https://guide.xspot.markets/desktop-application-for-windows/analysis-tools/chart/volume-analysis/vwap)
 
 ## **11. Where is the volume at price?**
 
@@ -99,8 +99,8 @@ You have several ways how to view the volume by price:
 
 You have 2 options how to do this:
 
-* Open grid panel: [https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid](https://guide.traderevolution.com/project/desktop-application-for-windows/analysis-tools/grid)
-* Open 2 charts: [https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels](https://guide.traderevolution.com/project/desktop-application-for-windows/getting-started/arranging-panels)
+* Open grid panel: [https://guide.xspot.markets/desktop-application-for-windows/analysis-tools/grid](https://guide.xspot.markets/desktop-application-for-windows/analysis-tools/grid)
+* Open 2 charts: [https://guide.xspot.markets/desktop-application-for-windows/getting-started/arranging-panels](https://guide.xspot.markets/desktop-application-for-windows/getting-started/arranging-panels)
 
 ## **14. How to color brokerages in Market depth?**
 
